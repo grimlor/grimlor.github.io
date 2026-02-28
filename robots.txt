@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jackpines.info/sitemap.xml
