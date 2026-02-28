@@ -1,0 +1,15 @@
+title = "Adventures in Software Development"
+languageName = "English"
+weight = 1
+
+[params]
+mainSections = ["posts"]
+
+[params.author]
+name = "Jack Pines"
+headline = "Software Engineer"
+bio = "Musings on software development, AI, and the tech industry."
+# image = "img/author.jpg"
+links = [
+  { github = "https://github.com/grimlor" },
+]

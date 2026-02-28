@@ -1,0 +1,43 @@
+# Theme parameters
+# See https://jpanther.github.io/congo/docs/configuration/#theme-parameters
+
+colorScheme = "congo"
+defaultAppearance = "auto"    # auto = follows OS preference
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = true
+
+[header]
+  layout = "basic"
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "profile"
+  showRecent = true
+  recentLimit = 5
+
+[article]
+  showDate = true
+  showDateUpdated = false
+  showAuthor = false
+  showBreadcrumbs = true
+  showTableOfContents = true
+  showTaxonomies = true
+  showWordCount = false
+  showComments = false
+  showSummary = true
+
+[list]
+  showBreadcrumbs = false
+  showSummary = true
+  showTableOfContents = false
+  groupByYear = true
+
+[taxonomy]
+  showTermCount = true
