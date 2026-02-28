@@ -1,0 +1,52 @@
+{{ if .Site.Params.homepage.showRecent | default false }}
+  {{ $pages := (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+  {{ $recent := first .Site.Params.homepage.recentLimit (.Paginate $pages .Site.Params.homepage.recentLimit).Pages }}
+
+  {{/* Find featured post: first with featured=true, or fall back to most recent */}}
+  {{ $featured := false }}
+  {{ range $recent }}
+    {{ if and (not $featured) .Params.featured }}
+      {{ $featured = . }}
+    {{ end }}
+  {{ end }}
+  {{ if not $featured }}
+    {{ $featured = index $recent 0 }}
+  {{ end }}
+
+  {{/* Render featured post prominently */}}
+  {{ with $featured }}
+    <article class="mt-8 max-w-prose">
+      <h2 class="text-2xl font-extrabold">
+        <a
+          class="text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
+          href="{{ .Permalink }}"
+        >{{ .Title | emojify }}</a>
+      </h2>
+      <div class="mt-1 text-sm text-neutral-500 dark:text-neutral-400">
+        {{ partial "article-meta.html" . }}
+      </div>
+      <div class="prose mt-3 dark:prose-invert">
+        {{ with .Description }}
+          {{ . | markdownify | emojify }}
+        {{ else }}
+          {{ .Summary | emojify }}
+        {{ end }}
+      </div>
+      <div class="mt-3">
+        <a
+          class="text-sm font-semibold text-primary-600 hover:underline dark:text-primary-400"
+          href="{{ .Permalink }}"
+        >{{ i18n "article.showMore" | default "Read more →" }}</a>
+      </div>
+    </article>
+  {{ end }}
+
+  {{/* Remaining recent posts (skip the featured one) */}}
+  {{ $remaining := where $recent "Permalink" "ne" $featured.Permalink }}
+  {{ if gt (len $remaining) 0 }}
+    <h2 class="mt-8 text-2xl font-extrabold">{{ i18n "shortcode.recent_articles" | emojify }}</h2>
+    {{ range $remaining }}
+      {{ partial "article-link.html" . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
