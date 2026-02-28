@@ -1,11 +1,10 @@
 ---
 title: "Windows Service or Console App? Why not both!"
 date: 2013-04-08
-type: post
 tags: ["debugging", ".NET", "windows service"]
+slug: "windows-service-or-console-app-why-not-both"
+description: "In my organization, I have some folks who love Windows Services and others who despise them, preferring a regular Console App that they can schedule to run..."
 ---
-
-# Windows Service or Console App? Why not both!
 
 In my organization, I have some folks who love Windows Services and others who despise them, preferring a regular Console App that they can schedule to run using the Windows Task Scheduler. (It's no surprise that the opposite dislike exists.) Further, everyone knows that debugging a Windows Service can be painful. So, simplify your life and make everyone happy (a rarity indeed)! Here's how to do it:  
 

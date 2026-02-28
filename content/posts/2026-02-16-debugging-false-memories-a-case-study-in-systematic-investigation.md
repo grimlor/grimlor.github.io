@@ -1,12 +1,12 @@
 ---
 title: "Debugging False Memories: A Case Study in Systematic Investigation"
 date: 2026-02-16
-type: post
 series: ["FastMCP Debugging"]
 series_order: 4
+slug: "debugging-false-memories-a-case-study-in-systematic-investigation"
+tags: ["debugging", "psychology", "software engineering"]
+description: "**\"I'm pretty sure this worked before.\"**"
 ---
-
-# Debugging False Memories: A Case Study in Systematic Investigation
 
 **"I'm pretty sure this worked before."**
 

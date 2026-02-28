@@ -1,10 +1,10 @@
 ---
 title: "Stop Fighting Shells, Start Using Python for Cross-Platform Scripts"
 date: 2025-08-20
-type: post
+slug: "stop-fighting-shells-start-using-python-for-cross-platform-scripts"
+tags: ["Python", "scripting", "cross-platform", "DevOps"]
+description: "Like many developers working across different environments, I found myself maintaining platform-specific shell commands that worked great... until they didn't."
 ---
-
-# Stop Fighting Shells, Start Using Python for Cross-Platform Scripts
 
 # *How a simple coverage report task led me to discover the universal scripting solution hiding in plain sight*
 
@@ -12,7 +12,7 @@ type: post
 
 Like many developers working across different environments, I found myself maintaining platform-specific shell commands that worked great... until they didn't. 
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7HXmgAFqz6uk3xAHYGQict9Aaz2psfgniB6Ob_A229bQbdMvI1u4ReMhcCwFlDAnKO1HRTagiPJR_mDZyHgkKtucqolxcfuP_sVWfBbDkBg24BejDYa8iAscaQVVIdUHqakZ7hnKTa5rEVXGpSaSjWahNTcvj4t7tGgfhvYkKFOeExN65aYMR-6RPdAwv/s320/This%20Is%20Fine%20GIF.gif)[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7HXmgAFqz6uk3xAHYGQict9Aaz2psfgniB6Ob_A229bQbdMvI1u4ReMhcCwFlDAnKO1HRTagiPJR_mDZyHgkKtucqolxcfuP_sVWfBbDkBg24BejDYa8iAscaQVVIdUHqakZ7hnKTa5rEVXGpSaSjWahNTcvj4t7tGgfhvYkKFOeExN65aYMR-6RPdAwv/s480/This%20Is%20Fine%20GIF.gif)
+![](/images/posts/This-Is-Fine-GIF.gif)[](/images/posts/This-Is-Fine-GIF.gif)
 
 My .zshrc was littered with WSL-specific hacks:
 
@@ -52,7 +52,7 @@ coverage-html = "coverage html && cmd.exe /c start \"$(wslpath -w htmlcov/index.
 But then I realized: this would only work on WSL. Anyone else trying to use my project would get cryptic errors.
 
 ## The Epiphany: Python is Everywhere
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiVcOOSmqM1T9xdpVd1-Oq7Y0B60C1ET40dtGOZF3LODHmhEkRVzaXlWSaN7eN6qQS2NtquWjdcXKodTwIpyEUxep_u8szx0w8OAkt9dIVJZ4Ktz6FTz1mXP07lyLqt1nj1yloy39kMh-Cw1lWMVb5GEnEP7dgry17bgipvAfvRX5zIBPzfbXhE3CQzaqL/s320/I%20Know%20Yes%20GIF%20by%20VeeFriends.gif)[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiVcOOSmqM1T9xdpVd1-Oq7Y0B60C1ET40dtGOZF3LODHmhEkRVzaXlWSaN7eN6qQS2NtquWjdcXKodTwIpyEUxep_u8szx0w8OAkt9dIVJZ4Ktz6FTz1mXP07lyLqt1nj1yloy39kMh-Cw1lWMVb5GEnEP7dgry17bgipvAfvRX5zIBPzfbXhE3CQzaqL/s480/I%20Know%20Yes%20GIF%20by%20VeeFriends.gif)  
+![](/images/posts/I-Know-Yes-GIF-by-VeeFriends.gif)[](/images/posts/I-Know-Yes-GIF-by-VeeFriends.gif)  
 
 That's when it hit me - **Python is the truly cross-platform scripting tool**. Every system where I'd want to run this project already has Python installed. And Python's standard library includes `webbrowser`, which handles platform differences for me:
 
@@ -68,7 +68,7 @@ This works identically on:
 - ✅ Native Linux (opens in default browser)
 - ✅ macOS (opens in default browser)
 - ✅ Windows (opens in default browser)
-![](https://blogger.googleusercontent.com/img/a/AVvXsEjCtRIzHodihkiulmrc8q2KlagAbyljze4PSJX-yIDSO9SW5NdbcGAvhIYQQ3HrWg06UM8Rf8Phwp0SC2iMxqBd0u611sA2b8v4snh3_K_oNd1hejT8y3s3tsXb8jex2-t0dgY7Jd6tg-2_fU4qXh5Kz7yc0ElWbNzckcJ_ILS8uZmYhwPEiVlOZM8ckeW5)[](https://blogger.googleusercontent.com/img/a/AVvXsEjCtRIzHodihkiulmrc8q2KlagAbyljze4PSJX-yIDSO9SW5NdbcGAvhIYQQ3HrWg06UM8Rf8Phwp0SC2iMxqBd0u611sA2b8v4snh3_K_oNd1hejT8y3s3tsXb8jex2-t0dgY7Jd6tg-2_fU4qXh5Kz7yc0ElWbNzckcJ_ILS8uZmYhwPEiVlOZM8ckeW5)  
+![](/images/posts/blogger-8c1acb29a2.gif)[](/images/posts/blogger-8c1acb29a2.gif)  
   
 
 ## The Transformation: From Hacks to Universal Solutions
@@ -105,7 +105,7 @@ function open() {
 
 ```
 
-![](https://blogger.googleusercontent.com/img/a/AVvXsEj-Aj3LRkzZi3aQ3Hd6AU-eSjRCmudgmJundhKsVLjkN5Bx7l5ztwlgXVGfhFWkUtSalWUcrHYimrnRnsBPfciGhyKZk0l-Z3-_JhPHwUNCSdZPOaCGpOVt-N3LM2jfcItuCDFDQyLBZqwPe-Qc8Reacb9PGni6vYLeXj8YvmTyDOFBSINW53KOU8llJ8hg)[](https://blogger.googleusercontent.com/img/a/AVvXsEj-Aj3LRkzZi3aQ3Hd6AU-eSjRCmudgmJundhKsVLjkN5Bx7l5ztwlgXVGfhFWkUtSalWUcrHYimrnRnsBPfciGhyKZk0l-Z3-_JhPHwUNCSdZPOaCGpOVt-N3LM2jfcItuCDFDQyLBZqwPe-Qc8Reacb9PGni6vYLeXj8YvmTyDOFBSINW53KOU8llJ8hg)  
+![](/images/posts/blogger-40f253bf9a.gif)[](/images/posts/blogger-40f253bf9a.gif)  
 I went from three platform-specific commands to one universal function that:
 
 - Works on any platform where Python exists (everywhere)
@@ -170,4 +170,4 @@ Your future self (and your collaborators) will thank you when your scripts work 
 
 ---
 
-How's that? It captures your journey from the WSL hacks to the universal solution, while making the broader point about Python as the cross-platform scripting lingua franca.![](https://blogger.googleusercontent.com/img/a/AVvXsEi4EeQJCRFViUgQ0TzbLYfkdWZ20-1nxAtSUhTqB1d9SEcLZ9kzpQTFSWhs_aVl_WOwQpdQU1YFRvRvMiBkMbnjJ1ULiZYPo7DexlhCQwNvgoEZKsU0dTjpsjFwIosN4coEFC5uJQCy4gyZQtK4EOPvTn_oiI2R-eptZBnxGBZ9fz3F0ptxDWFOFQBJ9_PS)[](https://blogger.googleusercontent.com/img/a/AVvXsEi4EeQJCRFViUgQ0TzbLYfkdWZ20-1nxAtSUhTqB1d9SEcLZ9kzpQTFSWhs_aVl_WOwQpdQU1YFRvRvMiBkMbnjJ1ULiZYPo7DexlhCQwNvgoEZKsU0dTjpsjFwIosN4coEFC5uJQCy4gyZQtK4EOPvTn_oiI2R-eptZBnxGBZ9fz3F0ptxDWFOFQBJ9_PS)
+How's that? It captures your journey from the WSL hacks to the universal solution, while making the broader point about Python as the cross-platform scripting lingua franca.![](/images/posts/blogger-b533c390aa.gif)[](/images/posts/blogger-b533c390aa.gif)

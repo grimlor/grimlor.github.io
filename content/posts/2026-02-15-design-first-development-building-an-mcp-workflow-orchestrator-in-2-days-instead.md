@@ -1,10 +1,10 @@
 ---
 title: "Design-First Development: Building an MCP Workflow Orchestrator in 2 Days Instead of 7"
 date: 2026-02-15
-type: post
+slug: "design-first-development-building-an-mcp-workflow-orchestrator-in-2-days-instead"
+tags: ["MCP", "Python", "design", "architecture"]
+description: "I built a workflow orchestrator that analyzes GitHub repositories. On day one, I pointed it at itself."
 ---
-
-# Design-First Development: Building an MCP Workflow Orchestrator in 2 Days Instead of 7
 
 # Eating My Own Dog Food (Recursively)
 

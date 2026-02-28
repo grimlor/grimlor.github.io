@@ -1,11 +1,10 @@
 ---
 title: "Java Memory Troubles? Tweak the GC"
 date: 2013-07-28
-type: post
 tags: ["JVM", "Java", "stack space", "memory", "heap space"]
+slug: "java-memory-troubles-tweak-the-gc"
+description: "tl;dr version"
 ---
-
-# Java Memory Troubles? Tweak the GC
 
 ### 
 tl;dr version

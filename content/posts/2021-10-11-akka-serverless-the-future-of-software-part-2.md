@@ -1,11 +1,12 @@
 ---
 title: "Akka Serverless - The Future of Software, Part 2"
 date: 2021-10-11
-type: post
 tags: ["Lightbend", "TheFuture", "Serverless", "Akka", "AkkaServerless"]
+series: ["Akka Serverless"]
+series_order: 2
+slug: "akka-serverless-the-future-of-software-part-2"
+description: "[When last we met](http://www.jackpines.info/2021/10/akka-serverless-future-of-software-part.html), Dear Reader, I was leading into why I think [Akka..."
 ---
-
-# Akka Serverless - The Future of Software, Part 2
 
 ## You Were Saying?
 
@@ -55,7 +56,7 @@ Hmm.... I'm betting you didn't go or, like me, you now have 2 more browser tabs 
 
 First off, the ideas around the Reactive Principles aren't new. The Reactive Manifesto was something I tripped over in my design pattern studies back in the 20-teens. [Jonas Bonér](https://twitter.com/jboner), [Dave Farley](https://twitter.com/davefarley77), [Roland Kuhn](https://twitter.com/rolandkuhn), and [Martin Thompson](https://twitter.com/mjpt777) had collaborated to bring together the ideas around 2014 but the concepts preceded them by decades. They just hadn't come to be something we business application developers really needed to know (despite how much I wanted my peers and managers to think it was necessary). Then came The Cloud.
 
-![Nobody understands the cloud!](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNb-LE2gvWc2w7hXkw10JJ6yogYKm39xrecRVk0jE5qvyQkamsAv_w3vNeKZLa6Muyt00YeodSyGYY8OmmCJPdMvZzn_1NWTAVOrF-8xnfyvItcCOx4f8_hHKH59ZpxBPC0T3tF7eBhKgJ/w224-h400/nobody-understands-the-cloud.png)[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNb-LE2gvWc2w7hXkw10JJ6yogYKm39xrecRVk0jE5qvyQkamsAv_w3vNeKZLa6Muyt00YeodSyGYY8OmmCJPdMvZzn_1NWTAVOrF-8xnfyvItcCOx4f8_hHKH59ZpxBPC0T3tF7eBhKgJ/s893/nobody-understands-the-cloud.png)  
+![Nobody understands the cloud!](/images/posts/nobody-understands-the-cloud.png)[](/images/posts/nobody-understands-the-cloud.png)  
 
 Suddenly, in my circles anyway, everyone wanted to put their .NET applications up in Azure. Yet, no one was building applications to run effectively in Azure -- even inside Microsoft. I don't mean any slight to the engineers I was working with. It's simply that most folks weren't so forward looking, or were not as exposed to distributed computing, as Jonas, et al, were.
 
@@ -63,7 +64,7 @@ Suddenly, in my circles anyway, everyone wanted to put their .NET applications u
 
 First, I have to say that I'm standing on the shoulders of giants, here. Further, if I can't describe something simply, I probably don't understand what I'm talking about. So, when I suggest that I'm going to Keep It Simple, it's so that my Silly Self can actually explain it. And, honestly, this software design pattern is extremely simple, conceptually speaking. 
 
-In a distributed system, which aptly describes all aspects of The Cloud, [things you have absolutely no control over break](https://cacm.acm.org/magazines/2020/2/242334-everything-fails-all-the-time/fulltext). However, that's no excuse to let the end-user suffer, either catastrophically or silently. With a minimum of 3 core concepts, you reach the 4th needed to be a Reactive System, which is always responsive software. ![Being elastic & resilient results in responsive software, all enabled by being message-driven](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDHmJYcTuGI3qNdWBmZq66Bb474QGSJislqrNKnA-TZLPeRHm71-aB01LGopkn4JZaPKkEekuEkpyaisciDeQAu4ixxgd8fo-9saZToyraSDv3Ltap_ELmTFB5npcaiW1a8P-Y5HO6QpbI/w400-h138/reactive-traits.png)[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDHmJYcTuGI3qNdWBmZq66Bb474QGSJislqrNKnA-TZLPeRHm71-aB01LGopkn4JZaPKkEekuEkpyaisciDeQAu4ixxgd8fo-9saZToyraSDv3Ltap_ELmTFB5npcaiW1a8P-Y5HO6QpbI/s919/reactive-traits.png)  
+In a distributed system, which aptly describes all aspects of The Cloud, [things you have absolutely no control over break](https://cacm.acm.org/magazines/2020/2/242334-everything-fails-all-the-time/fulltext). However, that's no excuse to let the end-user suffer, either catastrophically or silently. With a minimum of 3 core concepts, you reach the 4th needed to be a Reactive System, which is always responsive software. ![Being elastic & resilient results in responsive software, all enabled by being message-driven](/images/posts/reactive-traits.png)[](/images/posts/reactive-traits.png)  
 
 Responsiveness is simply defined as always responding in a timely manner if at all possible. As noted above, that means you need your system to be resilient to failure. 
 
@@ -77,7 +78,7 @@ The answer to all this is to introduce asynchrony. That brings me back to your t
 
 ## Missed It By *That* Much
 
-With both software and kids, this takes some maturity but by the time I was maturing from a naïve coder to a software engineer, the .NET Framework had matured to introduce the [Task Parallel Library giving us Async/Await in v4.5, released in 2012](https://devblogs.microsoft.com/dotnet/async-in-4-5-worth-the-await/). While Java's Futures preceded that by quite some time, CompletableFutures in Java 8 showed up in 2014. Until then, there were [a lot of shortcomings that made truly asynchronous programming difficult](https://blog.knoldus.com/future-vs-completablefuture-1/). There are also some distinct differences, notably around thread use, between how .NET and Java got the job done but they both have the same flaw. They both still, inevitably, await the result of the call. ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX3Ky0rqWMh2nDzdwdBanlRQPXWctNDTiPUUsTUJV0UeJEXWlGAe3gfNwa_T1upm4wmWm4moIKcAWuSaxPKZl8Qadg1tKdYwG6wV4CDelmYRZeP-orgpI7AZHZr8VqbtRYopxkl9QFQKwN/s0/skeleton-still-waiting-for-a-callback.jpeg)[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX3Ky0rqWMh2nDzdwdBanlRQPXWctNDTiPUUsTUJV0UeJEXWlGAe3gfNwa_T1upm4wmWm4moIKcAWuSaxPKZl8Qadg1tKdYwG6wV4CDelmYRZeP-orgpI7AZHZr8VqbtRYopxkl9QFQKwN/s262/skeleton-still-waiting-for-a-callback.jpeg)  
+With both software and kids, this takes some maturity but by the time I was maturing from a naïve coder to a software engineer, the .NET Framework had matured to introduce the [Task Parallel Library giving us Async/Await in v4.5, released in 2012](https://devblogs.microsoft.com/dotnet/async-in-4-5-worth-the-await/). While Java's Futures preceded that by quite some time, CompletableFutures in Java 8 showed up in 2014. Until then, there were [a lot of shortcomings that made truly asynchronous programming difficult](https://blog.knoldus.com/future-vs-completablefuture-1/). There are also some distinct differences, notably around thread use, between how .NET and Java got the job done but they both have the same flaw. They both still, inevitably, await the result of the call. ![](/images/posts/skeleton-still-waiting-for-a-callback.jpeg)[](/images/posts/skeleton-still-waiting-for-a-callback.jpeg)  
 
 Because it is possible to have a call never return, it is possible to have an unresponsive application even when built using asynchronous patterns. Ever been that parent (or the child here) who, all else done, just can't get their kid to pick up their toys? Yeah, that. You either have some timeout and error-handling (pick up the toys yourself, perhaps) or you both pass out before the battle of wills resolves.
 

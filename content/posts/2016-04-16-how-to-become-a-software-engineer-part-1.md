@@ -1,10 +1,12 @@
 ---
 title: "How to become a Software Engineer (part 1)"
 date: 2016-04-16
-type: post
+series: ["How to Become a Software Engineer"]
+series_order: 1
+slug: "how-to-become-a-software-engineer-part-1"
+tags: ["career", "software engineering", "learning"]
+description: "It was the end of June 2014 when I accomplished the improbable. I'd become a Software Engineer at Microsoft. Me. The guy who had learned C# on the fly just..."
 ---
-
-# How to become a Software Engineer (part 1)
 
 It was the end of June 2014 when I accomplished the improbable. I'd become a Software Engineer at Microsoft. Me. The guy who had learned C# on the fly just slightly over 7 years earlier and VB.Net 6 months before that having never programmed on the Microsoft stack before. Today, after [answering a question on Quora](https://www.quora.com/Is-it-possible-to-shift-to-a-software-job-after-the-age-of-43-years/answer/Jack-Pines-1), I'm going to finally begin a short series of posts that [Phil Hagerman](https://www.linkedin.com/in/philhagerman) requested of me when my career trajectory pitched moonward, starting with a brief history. I'll get more into the details of the hows and whats of what brought me this success in later posts.  
 

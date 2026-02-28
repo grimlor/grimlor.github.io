@@ -1,11 +1,12 @@
 ---
 title: "Akka Serverless - The Future of Software, Part 3"
 date: 2021-11-12
-type: post
 tags: ["Lightbend", "TheFuture", "Serverless", "Akka", "AkkaServerless"]
+series: ["Akka Serverless"]
+series_order: 3
+slug: "akka-serverless-the-future-of-software-part-3"
+description: "Well, now that you mention it, I did about a month of sleeping since my last post. Thanks for the nudge awake. In that interregnum we at..."
 ---
-
-# Akka Serverless - The Future of Software, Part 3
 
 ##  Ahem! Did You Fall Asleep?
 
@@ -20,7 +21,7 @@ Let me sum it up:
 
 1. You want always-responsive software so that users don't wander off when they see a  
   
-![SQUIRREL](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiakvc15081Cxj55o6BCZfXOXgrUkVDT5V9G9bDp0_j5Od6WSWTvqqXgXYWQkm-lroQhJZd5H9o1CJIRgAMO15qZ0oU7Vk7qSE143pKz9K7RYTGdbjkK0WccB3tGU9cOOSz2FqQUekMnDZF/w320-h159/Squirrel.gif)[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiakvc15081Cxj55o6BCZfXOXgrUkVDT5V9G9bDp0_j5Od6WSWTvqqXgXYWQkm-lroQhJZd5H9o1CJIRgAMO15qZ0oU7Vk7qSE143pKz9K7RYTGdbjkK0WccB3tGU9cOOSz2FqQUekMnDZF/s500/Squirrel.gif)  
+![SQUIRREL](/images/posts/Squirrel.gif)[](/images/posts/Squirrel.gif)  
 
 2. Always-responsive software comes in the form of being both resilient to failure and...
 3. ...elastic to meet demands, both growing to handle high load and shrinking when those demands pass so you aren't always paying for maximum potential.
@@ -47,7 +48,7 @@ For example, let's say that just as our barista was taking the other customer's 
 There is one more thing to add, which you've seen before, to finish our message-driven paradigm. When you place an order, a ticket is printed up. If it's just the one barista and you're the sole customer, that ticket may hit the trash pretty quickly. However, it's likely you've seen them carry it over with them to the espresso machine to be sure they're making your order right. When the second barista enters the scene, they start pulling the tickets right off the printer, in effect passing your message on to them to fulfill. 
 
 ## The Actor Formally Known As
-![Prince](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpCfJB4yXcV6E8WUo-nU94hRj4sAfIZUJGAnsZ5vVBAz5le6FOFlQB5-tmqS9dA0ebHjXuP41lgkluL4jEPWbTnLw_5RSOQsBNrsBKQoTHZO8kPZlWGSJVxh_wPdvdtinIfjqR9t9F0qtL/s16000/Prince.gif)[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpCfJB4yXcV6E8WUo-nU94hRj4sAfIZUJGAnsZ5vVBAz5le6FOFlQB5-tmqS9dA0ebHjXuP41lgkluL4jEPWbTnLw_5RSOQsBNrsBKQoTHZO8kPZlWGSJVxh_wPdvdtinIfjqR9t9F0qtL/s245/Prince.gif)  
+![Prince](/images/posts/Prince.gif)[](/images/posts/Prince.gif)  
 
 I said Actor, not Singer, and “formally”, not “formerly”. **sigh**
 

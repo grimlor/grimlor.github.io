@@ -1,11 +1,10 @@
 ---
 title: "One method to get a combined dataset of OLAP data"
 date: 2010-04-19
-type: post
 tags: ["linked server", "SSAS", "BI", "openquery", "data access methods", "business intelligence"]
+slug: "one-method-to-get-a-combined-dataset-of-olap-data"
+description: "When I started with this team, about 3 years ago, they had just completed a business intelligence solution that allowed any (internal) user with a web..."
 ---
-
-# One method to get a combined dataset of OLAP data
 
 When I started with this team, about 3 years ago, they had just completed a business intelligence solution that allowed any (internal) user with a web browser to pull data from several SQL Server Analysis Services (SSAS) cubes.  As I [mentioned in my introductory post](http://bidevadventures.blogspot.com/2010/04/introduction-of-this-blog-and-its.html), it seems that most BI is done in Excel one cube at a time.  Our [STAR Award](http://www.thesspa.com/starawards/best_practices.asp)-winning solution, while still representing only one cube at a time, did not have this limitation.  Further, it has allowed us to provide views into the data which help to prevent [Right Answer Wrong Question scenarios](http://bidevadventures.blogspot.com/2010/04/right-answer-wrong-question-scenarios.html).  
 

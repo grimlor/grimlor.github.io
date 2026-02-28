@@ -1,12 +1,12 @@
 ---
 title: "Code Review in the Age of AI: When Design Smells Hide in Plain Sight"
 date: 2026-02-15
-type: post
 series: ["FastMCP Debugging"]
 series_order: 3
+slug: "code-review-in-the-age-of-ai-when-design-smells-hide-in-plain-sight"
+tags: ["AI", "code review", "Python", "FastMCP"]
+description: "I used to review code for correctness. Does it work? Is the logic sound? Are the tests passing? Ship it."
 ---
-
-# Code Review in the Age of AI: When Design Smells Hide in Plain Sight
 
 I used to review code for correctness. Does it work? Is the logic sound? Are the tests passing? Ship it.
 
@@ -244,31 +244,22 @@ All my other tools got the same treatment. Dataclass parameters? Gone. Complex o
 After this experience, here's my checklist for reviewing AI-generated fixes:
 
 1. Look at the full signature, not just the fix
-
   - How many parameters?
   - How many are optional?
   - Would I write this by hand?
-
 2. Check for zombie code paths
-
   - Are there multiple ways to call this?
   - Is the old way actually used?
   - Can I delete it?
-
 3. Ask who the compatibility is for
-
   - Are there external callers?
   - Is this a public API?
   - Or is it just me and the AI?
-
 4. Do a broader audit when you find a pattern
-
   - If one function has the problem, others probably do too
   - Search the codebase
   - Fix them all at once
-
 5. Be explicit in your instructions
-
   - "Remove X" not "Fix X"
   - "No backwards compatibility needed"
   - "Single code path only"

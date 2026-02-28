@@ -1,10 +1,10 @@
 ---
 title: "🧱 When the Ladder Disappears: AI, Capital, and the Crisis Facing Society's Builders"
 date: 2025-04-24
-type: post
+slug: "when-the-ladder-disappears-ai-capital-and-the-crisis-facing-societys-builders"
+tags: ["AI", "career", "society", "opinion"]
+description: "*Posted on April 23, 2025 • Tags: AI, automation, labor, tech ethics, economy, future of work*"
 ---
-
-# 🧱 When the Ladder Disappears: AI, Capital, and the Crisis Facing Society's Builders
 
 *Posted on April 23, 2025 • Tags: AI, automation, labor, tech ethics, economy, future of work*
 
@@ -25,9 +25,7 @@ This is bigger than tech. It’s a structural issue that echoes across every ind
 I explained it to my son, a junior engineer, like this: Society is made up of three groups.
 
 1. **The builders** — the working class, the people who create the world we all live in.
-
 2. **The idea people** — inventors, artists, problem solvers, often emerging from group 1 because they know the pain points firsthand.
-
 3. **The capitalists** — the ones who fund ideas and scale them to market, often removed from the daily experience of either of the first two groups.
 
 Right now, AI is making group 3 giddy with excitement. Group 2 is being selectively elevated, especially if they know how to wield AI to produce more, faster. But group 1? They’re being told they’re expendable. That they’re a cost center. That they’re next.
@@ -55,9 +53,7 @@ And each time, it’s the **builders** who were left behind.
 If we’re serious about building a future with AI, then let’s build it for *everyone*.
 
 - Design systems that empower entry-level contributors
-
 - Keep the ladder sturdy, not sawed off for quarterly gains
-
 - Listen to those who’ve lived this cycle before
 
 We don’t fear the future.  

@@ -1,11 +1,12 @@
 ---
 title: "Akka Serverless - The Future of Software, Part 1"
 date: 2021-10-06
-type: post
 tags: ["Lightbend", "TheFuture", "Serverless", "Akka", "AkkaServerless"]
+series: ["Akka Serverless"]
+series_order: 1
+slug: "akka-serverless-the-future-of-software-part-1"
+description: "For those just joining the game, you might peruse my posts and see that I have dabbled as a software developer/engineer in multiple languages. I got my..."
 ---
-
-# Akka Serverless - The Future of Software, Part 1
 
 ## Some History (Mine)
 

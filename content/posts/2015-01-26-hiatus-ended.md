@@ -1,10 +1,11 @@
 ---
 title: "Hiatus Ended"
 date: 2015-01-26
-type: post
+draft: true
+slug: "hiatus-ended"
+tags: ["blogging", "meta"]
+description: "Dear Stalwart Reader,"
 ---
-
-# Hiatus Ended
 
 Dear Stalwart Reader,  
 

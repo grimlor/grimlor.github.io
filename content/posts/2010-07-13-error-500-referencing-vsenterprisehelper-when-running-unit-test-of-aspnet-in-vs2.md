@@ -1,11 +1,10 @@
 ---
 title: "Error 500 referencing VSEnterpriseHelper when running unit test of ASP.NET in VS2010"
 date: 2010-07-13
-type: post
 tags: ["unit testing ASP.NET 3.5 site Visual Studio 2010 errors"]
+slug: "error-500-referencing-vsenterprisehelper-when-running-unit-test-of-aspnet-in-vs2"
+description: "As noted previously, I want to move to test-driven development. My first step towards that end is to add unit tests to my team's existing projects. So,..."
 ---
-
-# Error 500 referencing VSEnterpriseHelper when running unit test of ASP.NET in VS2010
 
 As noted previously, I want to move to test-driven development. My first step towards that end is to add unit tests to my team's existing projects. So, while working to retrofit a web dashboard project I co-authored to use my new DataFactories class, I added unit testing to it. Upon every attempt to run the first test, however, I was receiving the following error:  
 
@@ -24,7 +23,6 @@ It turns out that this can be caused by numerous things, including not having ac
   
 
 1. Open Web.Config  
-
 2. Under the <runtime> element, *before* the <assemblyBinding appliesTo="v2.0.50727" xmlns="urn:schemas-microsoft-com:asm.v1"> element, add the following:  
 
   

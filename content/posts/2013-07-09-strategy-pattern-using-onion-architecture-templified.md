@@ -1,11 +1,10 @@
 ---
 title: "Strategy Pattern using Onion Architecture Templified"
 date: 2013-07-09
-type: post
 tags: ["Onion Architecture Templified", ".NET", "strategy pattern", "design patterns"]
+slug: "strategy-pattern-using-onion-architecture-templified"
+description: "*The following article was drafted 2013/07/09 shortly after a presentation I had made at the Orlando .NET Users Group. Unfortunately, I neglected to hit the..."
 ---
-
-# Strategy Pattern using Onion Architecture Templified
 
 *The following article was drafted 2013/07/09 shortly after a presentation I had made at the Orlando .NET Users Group. Unfortunately, I neglected to hit the Post button and left it to collect dust without being published until now. Apologies for anyone who was looking forward to this article.*  
 
@@ -58,9 +57,7 @@ public ActionResult PerformSearch(QueryModel queryModel)
 Key takeaways here:  
 
 - The code here knows nothing about how many search engines there are to choose from.
-
 - The code doesn't make any decisions about the search engines.
-
 - The code does not need to be maintained when a new search engine is added.
 
 Now, I want to make it clear that this is a contrived example. Only two choices exist and I doubt you'd be adding new search engines to a web page for the user to pick at runtime. However, this clearly demonstrates that such runtime choices needn't be handled in the UI or business logic. Rather, it can be pushed to the outside ring of the [Onion Architecture](https://github.com/grimlor/OnionArchitecture) so that maintenance can be managed much more easily.

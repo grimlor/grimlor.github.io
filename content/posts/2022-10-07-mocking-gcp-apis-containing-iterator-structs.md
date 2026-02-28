@@ -1,10 +1,10 @@
 ---
 title: "Mocking GCP APIs containing iterator structs"
 date: 2022-10-07
-type: post
+slug: "mocking-gcp-apis-containing-iterator-structs"
+tags: ["Go", "GCP", "testing", "mocking"]
+description: "The astute amongst my readers may have noticed that I left Lightbend to go work with some friends who I'd built things with previously at another company...."
 ---
-
-# Mocking GCP APIs containing iterator structs
 
 ## New company & language, who dis?
 

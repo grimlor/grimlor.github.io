@@ -1,12 +1,12 @@
 ---
 title: "The FastMCP Dataclass Parameter Trap: When Pydantic Lies (By Omission)"
 date: 2026-02-15
-type: post
 series: ["FastMCP Debugging"]
 series_order: 2
+slug: "the-fastmcp-dataclass-parameter-trap-when-pydantic-lies-by-omission"
+tags: ["FastMCP", "Python", "Pydantic", "debugging"]
+description: "FastMCP is a fantastic library. It abstracts away the gnarly bits of the Model Context Protocol and lets you write MCP tools with clean, Pythonic code...."
 ---
-
-# The FastMCP Dataclass Parameter Trap: When Pydantic Lies (By Omission)
 
 FastMCP is a fantastic library. It abstracts away the gnarly bits of the Model Context Protocol and lets you write MCP tools with clean, Pythonic code. Dataclasses work beautifully as return types. Pydantic handles the serialization. Everything *just works*.
 

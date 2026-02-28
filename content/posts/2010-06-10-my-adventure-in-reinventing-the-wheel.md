@@ -1,11 +1,10 @@
 ---
 title: "My Adventure in Reinventing the Wheel"
 date: 2010-06-10
-type: post
 tags: ["data factory", "design patterns", "design", "datafactories", "data access methods", "data factories", "adomd stored procedures"]
+slug: "my-adventure-in-reinventing-the-wheel"
+description: "**Why I Needed a New Wheel**"
 ---
-
-# My Adventure in Reinventing the Wheel
 
 **Why I Needed a New Wheel**  
 

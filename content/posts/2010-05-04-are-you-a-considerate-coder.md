@@ -1,11 +1,10 @@
 ---
 title: "Are you a Considerate Coder?"
 date: 2010-05-04
-type: post
 tags: ["considerate coding", "best practices", "documentation"]
+slug: "are-you-a-considerate-coder"
+description: "**"
 ---
-
-# Are you a Considerate Coder?
 
 **  
 

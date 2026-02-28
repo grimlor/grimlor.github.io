@@ -1,10 +1,10 @@
 ---
 title: "Common Error, Simple Solution"
 date: 2011-02-23
-type: post
+slug: "common-error-simple-solution"
+tags: ["debugging", ".NET"]
+description: "Have you ever seen this error?"
 ---
-
-# Common Error, Simple Solution
 
 Have you ever seen this error?  
 

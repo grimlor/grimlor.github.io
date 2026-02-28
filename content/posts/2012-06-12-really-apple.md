@@ -1,11 +1,10 @@
 ---
 title: "Really, Apple?!?"
 date: 2012-06-12
-type: post
 tags: ["Not Enterprise Ready", "Apple", "No Upgrade Options", "Mac Book Pro"]
+slug: "really-apple"
+description: "I posted this on Apple's Discussion board about 20 minutes ago. It lasted there all of 5 minutes before the moderator killed the post. I'd repost it but I'd..."
 ---
-
-# Really, Apple?!?
 
 I posted this on Apple's Discussion board about 20 minutes ago. It lasted there all of 5 minutes before the moderator killed the post. I'd repost it but I'd like to remain in the good graces of Apple as a developer. Not sure if that'll happen, though, since they are a bit heavy-handed at times. Anyway, here's that post:
 

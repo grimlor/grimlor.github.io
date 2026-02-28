@@ -1,10 +1,10 @@
 ---
 title: "Descriptive vs Prescriptive Testing: Transforming Code Reviews Through Better Test Design"
 date: 2025-08-20
-type: post
+slug: "descriptive-vs-prescriptive-testing-transforming-code-reviews-through-better-tes"
+tags: ["testing", "code review", "best practices"]
+description: "*How writing tests that describe behavior instead of implementation can revolutionize your code review process*"
 ---
-
-# Descriptive vs Prescriptive Testing: Transforming Code Reviews Through Better Test Design
 
 *How writing tests that describe behavior instead of implementation can revolutionize your code review process*
 
@@ -51,7 +51,7 @@ def test_get_dq_approach_examples():
 - No indication of what value this provides users
 - Focused on "how" instead of "what"
   
-![Distracted boyfriend meme: Boyfriend (Developer) looking at "Testing implementation details" while girlfriend "Testing user behavior" looks disapproving, and the woman he's looking at is labeled "Brittle tests that break on refactor"](https://blogger.googleusercontent.com/img/a/AVvXsEjHWQDSpZgH682BN-vIX1j8CGQ6gJDj8YVCY6m0an1Wu0SP1FtZi7zmGlQmO06MuIwtTXlF3_LAR153NHZgejroUX0fY3zYLVmITb6LSk0FCZ1y1zUe78f9JGcid2CkLZ2xHdKa9zjepsDehpm89gEyR5BFhXibENbqozpYzFbz1edwQ39l1pNE0w_oWqkW=w400-h266)  
+![Distracted boyfriend meme: Boyfriend (Developer) looking at "Testing implementation details" while girlfriend "Testing user behavior" looks disapproving, and the woman he's looking at is labeled "Brittle tests that break on refactor"](/images/posts/blogger-5939c0cfc6.png)  
 
 ### ✅ Descriptive Testing (Behavior-Focused)
 
@@ -88,7 +88,7 @@ def test_users_can_find_appropriate_dq_approach_for_their_scenario():
 With descriptive tests, code reviews become a three-stage pipeline:
 
   
-![Galaxy brain meme: Small brain - "Manual code review for everything" / Medium brain - "Automated formatting checks" / Large brain - "Tests document behavior" / Galaxy brain - "Three-stage pipeline: Automation → Behavior → Implementation"](https://blogger.googleusercontent.com/img/a/AVvXsEimg9qCmmebooA9lwdGii4YwNB_27jnwqGxh3E7IYxqhWLYMSA7rHLRn1QUKEmEpeF4j3CpUwlJEDQcvvO5crfh9JS6ha0bSCmOBzMa4tVXzO0twlBcbX8e6C8iVZxrxx6fA4A5jOImgZ5sRLzbe5BuDIgyQux3V-YTsb-Q4robwZSZOYU3k8Z_095cPXPW=w400-h389)[](https://blogger.googleusercontent.com/img/a/AVvXsEimg9qCmmebooA9lwdGii4YwNB_27jnwqGxh3E7IYxqhWLYMSA7rHLRn1QUKEmEpeF4j3CpUwlJEDQcvvO5crfh9JS6ha0bSCmOBzMa4tVXzO0twlBcbX8e6C8iVZxrxx6fA4A5jOImgZ5sRLzbe5BuDIgyQux3V-YTsb-Q4robwZSZOYU3k8Z_095cPXPW)
+![Galaxy brain meme: Small brain - "Manual code review for everything" / Medium brain - "Automated formatting checks" / Large brain - "Tests document behavior" / Galaxy brain - "Three-stage pipeline: Automation → Behavior → Implementation"](/images/posts/blogger-8c25016afc.png)[](/images/posts/blogger-2e72488f1d.png)
 
 ### Stage 1: Automated Validation (CI/CD)
 
@@ -177,7 +177,7 @@ class TestUserCanAnalyzeDataQuality:
 
 While true TDD writes tests first, most teams write tests retroactively. That's okay! The key insight is that **even retroactive tests should be descriptive, not prescriptive.**
 
-******![](https://blogger.googleusercontent.com/img/a/AVvXsEhHuWjNXB_OHseXlUlTWzMQdEE5npHhnvv5IbcHDg8h-isqsIB8dJBdZCTI4cM6V1V1aEBdSpUqggTjcjtrIzEovaX_WJm_o5WaJLQRuUQZgVdEA0HSjppkzGzdbd-MG-iDUIA3XkztgQrHFR9o93Ug1acKj6hB88d00wnMz2FpyrNyzufGJ8gdgmMXifsc=w265-h400)[](https://blogger.googleusercontent.com/img/a/AVvXsEhHuWjNXB_OHseXlUlTWzMQdEE5npHhnvv5IbcHDg8h-isqsIB8dJBdZCTI4cM6V1V1aEBdSpUqggTjcjtrIzEovaX_WJm_o5WaJLQRuUQZgVdEA0HSjppkzGzdbd-MG-iDUIA3XkztgQrHFR9o93Ug1acKj6hB88d00wnMz2FpyrNyzufGJ8gdgmMXifsc)**
+******![](/images/posts/blogger-0d53616d0d.png)[](/images/posts/blogger-c5e5dbcc28.png)**
 
 When writing tests after implementation:
 
@@ -204,7 +204,7 @@ From our recent refactoring of prescriptive tests to descriptive ones:
 - 💚 **Resilient tests**: Survive implementation changes
 - 📚 **Living docs**: Tests explain user value
 - 🎯 **Clear purpose**: Easy to validate features matter
-![](https://blogger.googleusercontent.com/img/a/AVvXsEhGLfhgbBGgCsaJmFCtnUQbv1Q0qeiEC3fO0hu3V-qCjXppPOLKX4z_sKwfswubM6rVuj03HYsR8pIzrELaeRMYH764xTiR8fanuRr1nQ_mA8syhAVNm0zcjb-IGdiQ4-mDBgRSu4MQza2_9CtS7qQzDnP11BK8YogY5zhLiTaIeJKBkUbz6ykAW8ygqdWa=w400-h400)[](https://blogger.googleusercontent.com/img/a/AVvXsEhGLfhgbBGgCsaJmFCtnUQbv1Q0qeiEC3fO0hu3V-qCjXppPOLKX4z_sKwfswubM6rVuj03HYsR8pIzrELaeRMYH764xTiR8fanuRr1nQ_mA8syhAVNm0zcjb-IGdiQ4-mDBgRSu4MQza2_9CtS7qQzDnP11BK8YogY5zhLiTaIeJKBkUbz6ykAW8ygqdWa)
+![](/images/posts/blogger-7106113323.png)[](/images/posts/blogger-145960a1c3.png)
 
 ## The Bottom Line
 

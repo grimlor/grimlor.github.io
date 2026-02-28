@@ -1,14 +1,14 @@
 ---
 title: "The Power Behind the Curtain: How AI Hype Serves Global Wealth Consolidation"
 date: 2025-09-24
-type: post
+slug: "the-power-behind-the-curtain-how-ai-hype-serves-global-wealth-consolidation"
+tags: ["AI", "society", "opinion"]
+description: "*Part Two: Or, How Tech Billionaires Learned to Stop Worrying and Love Economic Feudalism*"
 ---
-
-# The Power Behind the Curtain: How AI Hype Serves Global Wealth Consolidation
 
 *Part Two: Or, How Tech Billionaires Learned to Stop Worrying and Love Economic Feudalism*
 
-******![Wizard of Oz Exposed: Pay no attention to the billionaire behind the AI](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQSADvQ7iqEWGsWZlPKkNX_BfsgO0WA7G_kmwsrFmXcf-jVlMFxUBXBmR2MaguDvEiloQWKcR9SlHkkcZ3nYnDeFozxtlcxaszuosaCxhdjpSeEMLkLVfkrAB4iJS0kN2a9Xy5c4Rume-raTjj_rm-tw9LnGB_n1IaxOc6UtYVxbI3dGYioUvy45uDWOV2/w299-h320/Wizard%20of%20AI.jpg)[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQSADvQ7iqEWGsWZlPKkNX_BfsgO0WA7G_kmwsrFmXcf-jVlMFxUBXBmR2MaguDvEiloQWKcR9SlHkkcZ3nYnDeFozxtlcxaszuosaCxhdjpSeEMLkLVfkrAB4iJS0kN2a9Xy5c4Rume-raTjj_rm-tw9LnGB_n1IaxOc6UtYVxbI3dGYioUvy45uDWOV2/s536/Wizard%20of%20AI.jpg)**
+******![Wizard of Oz Exposed: Pay no attention to the billionaire behind the AI](/images/posts/Wizard-of-AI.jpg)[](/images/posts/Wizard-of-AI.jpg)**
 
 *This is part two of a series examining the gap between AI promises and reality. [Part one](https://www.jackpines.info/2025/09/the-great-ai-theater-when-corporate.html) explored the technical failures of current AI implementations. This part examines the broader economic and political forces driving AI adoption despite those failures.*
 
@@ -20,7 +20,7 @@ Because the inadequacy isn't a bug - it's a feature serving a much larger agenda
 
 ## The Systematic Destruction of Expertise (Or: "Digital Feudalism Has Entered the Chat")
 
-******![Everything is Fine Dog: Tech Industry Career Pathways (in smoke)/AI Hype (under dog in fire)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMklHnUdow2Hz0atWjAMtBr6dBA6g45O26thqQiEfsxEYUZCnrWYuyS-PL436yNqPre79jderaxQVpTPaexnO48P2fUNTkJlolh8vvvN20Ajc0BLadNcWhsvvdmwxw_Gx6txykta8dF5kKrj3WegRur1SyNIRPRYeGZlZfeGhx_99OvRLleYkZRRrrWS1N/w320-h181/AI%20Hype%20&%20Tech%20Industry%20Career%20Pathways.jpg)[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMklHnUdow2Hz0atWjAMtBr6dBA6g45O26thqQiEfsxEYUZCnrWYuyS-PL436yNqPre79jderaxQVpTPaexnO48P2fUNTkJlolh8vvvN20Ajc0BLadNcWhsvvdmwxw_Gx6txykta8dF5kKrj3WegRur1SyNIRPRYeGZlZfeGhx_99OvRLleYkZRRrrWS1N/s886/AI%20Hype%20&%20Tech%20Industry%20Career%20Pathways.jpg)**
+******![Everything is Fine Dog: Tech Industry Career Pathways (in smoke)/AI Hype (under dog in fire)](/images/posts/AI-Hype-_-Tech-Industry-Career-Pathways.jpg)[](/images/posts/AI-Hype-_-Tech-Industry-Career-Pathways.jpg)**
 
 The Microsoft layoff data tells a story that would make even the most dystopian sci-fi writer say "okay, that's a bit much":
 
@@ -34,7 +34,7 @@ It's like burning down your house because you heard fire insurance is really goo
 
 ## The Global Race to the Bottom (Or: "Outsourcing Ourselves Out of Existence")
 
-******![Expanding Brain meme: Small brain - Offshort to cut costs, Bigger brain - Use visa workers for leverage, Galaxy brain - Replace everyone with AI, Universe brain - realize you eliminated the people who could build AI](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSIYLzjv6Gw6ka4DQLOOta1gJygP-hq2-U4nKgwDCA9itI_8i18Rel-UiuMGp22Lw43Ll9NGlU-oGcDPOsjcDbNrqUnO5mlJgu08IH8MbjUP14XX3i09dAS3xAhVQ6Z3BTGWVA28FlZmMTukDe1GVcaZ1NA_Pzjl6TB4zh512tl-_ObTHVs4PYouoHfgyN/w228-h320/AI%20Brain.jpg)[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSIYLzjv6Gw6ka4DQLOOta1gJygP-hq2-U4nKgwDCA9itI_8i18Rel-UiuMGp22Lw43Ll9NGlU-oGcDPOsjcDbNrqUnO5mlJgu08IH8MbjUP14XX3i09dAS3xAhVQ6Z3BTGWVA28FlZmMTukDe1GVcaZ1NA_Pzjl6TB4zh512tl-_ObTHVs4PYouoHfgyN/s701/AI%20Brain.jpg)**
+******![Expanding Brain meme: Small brain - Offshort to cut costs, Bigger brain - Use visa workers for leverage, Galaxy brain - Replace everyone with AI, Universe brain - realize you eliminated the people who could build AI](/images/posts/AI-Brain.jpg)[](/images/posts/AI-Brain.jpg)**
 
 But wait, there's more! (And by "more," I mean "worse.")
 
@@ -43,9 +43,7 @@ I have friends in the tech industry from Canada and India who report identical p
 The three-stage process has been remarkably consistent across countries:
 
 1. **Offshore Arbitrage**: "We need to cut costs" → establish lower wage expectations globally
-
 2. **Visa Worker Leverage**: Create captive workforces who can't negotiate → further suppress wages everywhere
-
 3. **AI Replacement Fantasy**: "We can replace everyone" → immediate downward pressure on all technical wages worldwide
 
 It's like a multilevel marketing scheme, except instead of selling essential oils, they're selling the idea that human expertise is obsolete. And instead of targeting suburban moms, they're targeting entire national economies.
@@ -54,7 +52,7 @@ Workers everywhere are now competing against AI tools that can't actually do the
 
 ## The Power Consolidation Game (Or: "Monopoly, But the Fake Money Becomes Real Money")
 
-******![Change My Mind: AI hype is just wealth consolidation with extra steps](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAjmk9ejZceBoqVceBs7yCgYPin1RXQnqQscWoGyCoCCmmq32cPEE2n1AC494nPN1WcMWlvTzEU4zghIfA5wf8Ypa6Dwfav0R2VefckK1DY17V2Y7pz0tpoUGqCAJi1XGs22mbAs1ZI2fpeo5PMJZLgUzsBgtQXA3e7q5jmQlqz2PdU8_tQ5qOjq4j0Mx4/w320-h240/AI%20Hype%20is%20Wealth%20Consolidation.jpg)[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAjmk9ejZceBoqVceBs7yCgYPin1RXQnqQscWoGyCoCCmmq32cPEE2n1AC494nPN1WcMWlvTzEU4zghIfA5wf8Ypa6Dwfav0R2VefckK1DY17V2Y7pz0tpoUGqCAJi1XGs22mbAs1ZI2fpeo5PMJZLgUzsBgtQXA3e7q5jmQlqz2PdU8_tQ5qOjq4j0Mx4/s577/AI%20Hype%20is%20Wealth%20Consolidation.jpg)**
+******![Change My Mind: AI hype is just wealth consolidation with extra steps](/images/posts/AI-Hype-is-Wealth-Consolidation.jpg)[](/images/posts/AI-Hype-is-Wealth-Consolidation.jpg)**
 
 The tech billionaires driving AI development aren't really building productivity tools - they're building power infrastructure. And like all good infrastructure projects, the real purpose isn't what's written on the public proposal.
 
@@ -70,7 +68,7 @@ Think of it as Pascal's Wager for oligarchs: bet on AI replacing everyone, and i
 
 ## The Intersection with Broader Collapse (Or: "Everything is Fine and Definitely Not Falling Apart")
 
-******![Two Buttons: Blame immigrants for job loses [or] Blame AI oligarchs for job losses, with sweating person labeled "Displaced tech worker"](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9DcKk9_5UgwdMEzNosvcsvroGjZGnbVeIAHl7X3dJNO7xQy5PWBICz8kMbBMApzUPwcl6FrHeHZA9aQlQpM7jjHH3kp4ldKR9DekCHqh4Y6lYtMiPywBR5Z4iTcBAgiVYYIQ6R8ixISubr1LTb4y1g9t_kQ1LacMotRXcRPoOpGaBcBXj71gXeDVHV3Uw/w256-h367/AI%20Displaced%20Tech%20Worker.jpg)[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9DcKk9_5UgwdMEzNosvcsvroGjZGnbVeIAHl7X3dJNO7xQy5PWBICz8kMbBMApzUPwcl6FrHeHZA9aQlQpM7jjHH3kp4ldKR9DekCHqh4Y6lYtMiPywBR5Z4iTcBAgiVYYIQ6R8ixISubr1LTb4y1g9t_kQ1LacMotRXcRPoOpGaBcBXj71gXeDVHV3Uw/s756/AI%20Displaced%20Tech%20Worker.jpg)**
+******![Two Buttons: Blame immigrants for job loses [or] Blame AI oligarchs for job losses, with sweating person labeled "Displaced tech worker"](/images/posts/AI-Displaced-Tech-Worker.jpg)[](/images/posts/AI-Displaced-Tech-Worker.jpg)**
 
 This economic hollowing-out doesn't happen in a political vacuum. When people lose economic security while wealth concentrates at the top, it creates conditions ripe for exploitation by demagogues offering simple explanations and convenient scapegoats.
 
@@ -82,7 +80,7 @@ It's like arguing about the color of deck chairs while the Titanic is sinking, e
 
 ## Have We Learned Nothing from Manufacturing? (The "This Time Is Different" Fallacy)
 
-******![History Rhymes: Manufacturing jobs going overseas 1990s/Tech jobs 'going to AI' 2020s](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXr6gJ2EEupJQ07LpsnHVissu4Una8o-VUfud_lPwCiIkasbAT8l0Bbe0nzxfi9vMzcA2D1IvJbPJtJ8W-MwlzWhw2PG7ADG9ExJJ2fCsR24zIQgVlJTr9LS1jjzmxbo_C9rfNE-YchBydCeUflLmBxm5GZxd1GK5J0yXdGsitotvMFD1IYPaDjJCdAKVm/w320-h298/AI%20history%20rhymes.jpg)[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXr6gJ2EEupJQ07LpsnHVissu4Una8o-VUfud_lPwCiIkasbAT8l0Bbe0nzxfi9vMzcA2D1IvJbPJtJ8W-MwlzWhw2PG7ADG9ExJJ2fCsR24zIQgVlJTr9LS1jjzmxbo_C9rfNE-YchBydCeUflLmBxm5GZxd1GK5J0yXdGsitotvMFD1IYPaDjJCdAKVm/s518/AI%20history%20rhymes.jpg)**
+******![History Rhymes: Manufacturing jobs going overseas 1990s/Tech jobs 'going to AI' 2020s](/images/posts/AI-history-rhymes.jpg)[](/images/posts/AI-history-rhymes.jpg)**
 
 Here's the final question we must ask ourselves: Have we not learned our lesson with manufacturing?
 
@@ -102,7 +100,7 @@ It's like the entire world decided to burn their libraries because someone inven
 
 ## Breaking Through the Deception (Or: "The Emperor's New AI Has No Clothes")
 
-******![Red Pill: Believe AI will replace all developers, Blue Pill: Recognize this is wealth consolidation theater](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7clNW172kyj4QrP3o_hD4qv_EjauFQCctOPcRnALPKW-7WuXRrWXy7aX-l6aD7AtPIUpoK7AUonmSdEU5Sx-04DamMfaHytccRI1fWb9iP4iTUfENdxyIjJ9ibyTPRsv_CFsbxu9TwANvGqHvdIyzNYeInxll-vuhCQWxU0xhv8kW8HWPESOswP22CDaV/w320-h167/AI%20Red-Blue%20Pills.jpg)[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7clNW172kyj4QrP3o_hD4qv_EjauFQCctOPcRnALPKW-7WuXRrWXy7aX-l6aD7AtPIUpoK7AUonmSdEU5Sx-04DamMfaHytccRI1fWb9iP4iTUfENdxyIjJ9ibyTPRsv_CFsbxu9TwANvGqHvdIyzNYeInxll-vuhCQWxU0xhv8kW8HWPESOswP22CDaV/s958/AI%20Red-Blue%20Pills.jpg)**
+******![Red Pill: Believe AI will replace all developers, Blue Pill: Recognize this is wealth consolidation theater](/images/posts/AI-Red-Blue-Pills.jpg)[](/images/posts/AI-Red-Blue-Pills.jpg)**
 
 The AI tools aren't inherently broken - they're deliberately constrained to serve corporate interests rather than user needs. The real capabilities exist (as evidenced by direct interaction with underlying models), but they've been filtered through systems optimized for cost reduction and risk management rather than actual utility.
 
@@ -116,7 +114,7 @@ Understanding this distinction is crucial for developing strategies that actuall
 
 ## The Path Forward (Or: "How to Stop Worrying and Start Building Better Things")
 
-******![6 Million Dollar Man: We can rebuild technical expertise - we have the technology](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGvsfRbLmWi9Y-TmkiN83nJX90-KWsQeJKtXSlGWZSDhPBT1vooufF7V8MbEZTE9oV-MU6UQuMNPij2MODjzNkz2weTRmoDS4KGzVfKLOZLsrPcTf3VcOKaqK2FQRAoF-GVs1Q_PT0LoJDPKaiEHC9NH-TlUBwCQTGPEvhql-PYzWMqMV_XxXMcBAe3eK-/w320-h240/We%20can%20rebuild%20technical%20expertise.jpg)[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGvsfRbLmWi9Y-TmkiN83nJX90-KWsQeJKtXSlGWZSDhPBT1vooufF7V8MbEZTE9oV-MU6UQuMNPij2MODjzNkz2weTRmoDS4KGzVfKLOZLsrPcTf3VcOKaqK2FQRAoF-GVs1Q_PT0LoJDPKaiEHC9NH-TlUBwCQTGPEvhql-PYzWMqMV_XxXMcBAe3eK-/s666/We%20can%20rebuild%20technical%20expertise.jpg)**
+******![6 Million Dollar Man: We can rebuild technical expertise - we have the technology](/images/posts/We-can-rebuild-technical-expertise.jpg)[](/images/posts/We-can-rebuild-technical-expertise.jpg)**
 
 We're at a critical juncture, but it's not the hopeless dystopia the first part of this analysis might suggest. The deception only works if we accept it.
 

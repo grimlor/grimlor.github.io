@@ -1,11 +1,10 @@
 ---
 title: "Introduction of this blog and its author"
 date: 2010-04-19
-type: post
 tags: ["development", "business intelligence", "introduction", "BI"]
+slug: "introduction-of-this-blog-and-its-author"
+description: "If you've found this post, then you've arrived early to the action.  My goal with this blog is to introduce myself and share what I've learned most recently..."
 ---
-
-# Introduction of this blog and its author
 
 If you've found this post, then you've arrived early to the action.  My goal with this blog is to introduce myself and share what I've learned most recently in my growth as a Business Intelligence developer.  
 

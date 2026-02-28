@@ -1,10 +1,10 @@
 ---
 title: "The Great Testing Reframe: From Implementation-Driven to Value-Driven Development"
 date: 2025-08-23
-type: post
+slug: "the-great-testing-reframe-from-implementation-driven-to-value-driven-development"
+tags: ["testing", "TDD", "best practices"]
+description: "In my previous post about [descriptive vs prescriptive testing](https://www.jackpines.info/2025/08/descriptive-vs-prescriptive-testing.html), we explored..."
 ---
-
-# The Great Testing Reframe: From Implementation-Driven to Value-Driven Development
 
 # *A follow-up to "Descriptive vs Prescriptive Testing" - Why the industry needs tests-first contracts for stakeholder alignment*
 
@@ -16,7 +16,7 @@ In my previous post about [descriptive vs prescriptive testing](https://www.jac
 
 **What if the entire "code first, test later" paradigm is fundamentally backwards?**
 
-![Mind blown meme: Galaxy exploding with text "When you realize the entire industry has been doing development backwards"](https://blogger.googleusercontent.com/img/a/AVvXsEh4ikhLP9SvWS34uvtuWed8bxv7u5saWkV5wQeMLWQvGDWNB4gVQRfAKAh_dsGQ_knsu9a_Hp2IhUreO4AXIe7lqVNl5HhlFDJVKsI0FpgOxP1YGwPSVqbmGwKfpvnR7z7nEwmIkIiZpE2tHdyDM_hCkpO7ZWy1fSJXJZZJkJmH-78B7QCPmgecg9kx5_sz=w320-h240)[](https://blogger.googleusercontent.com/img/a/AVvXsEh4ikhLP9SvWS34uvtuWed8bxv7u5saWkV5wQeMLWQvGDWNB4gVQRfAKAh_dsGQ_knsu9a_Hp2IhUreO4AXIe7lqVNl5HhlFDJVKsI0FpgOxP1YGwPSVqbmGwKfpvnR7z7nEwmIkIiZpE2tHdyDM_hCkpO7ZWy1fSJXJZZJkJmH-78B7QCPmgecg9kx5_sz)  
+![Mind blown meme: Galaxy exploding with text "When you realize the entire industry has been doing development backwards"](/images/posts/blogger-3cecca8be1.png)[](/images/posts/blogger-62bf9a6b8a.png)  
 
 The more I've worked with behavior-focused testing, the more convinced I've become that we need a complete reframing of the development process - one that puts value contracts before implementation details.
 
@@ -41,7 +41,7 @@ This thinking is fundamentally flawed because:
 - 🏃 **Delivery pressure corrupts judgment** - time constraints lead to shortcuts
 - 🤝 **Quality emerges from process, not just talent** - individual brilliance doesn't scale
 
-![Homer Simpson disappearing into bushes meme: "Management thinking they can skip testing and still get quality" / Homer backing into bushes labeled "Technical debt"](https://blogger.googleusercontent.com/img/a/AVvXsEhGoMC-9RM8kmZnxozxuzcY4N9fz92wd82JxfixRJwFwQsFuxQuomRAsE88fQ2Sp6X1Sa4y1Op46dsq1jTFX7BQGZArpjd1qMEbYuNuAIAMqTX6pw44KX1CdWtpBMHmq6NCxWEokRBNPN_15qiEyV0PGhMx7jJBUFjT__7QfRWZQFK7KJo8iDIcLqDgx_SP=w320-h213)[](https://blogger.googleusercontent.com/img/a/AVvXsEhGoMC-9RM8kmZnxozxuzcY4N9fz92wd82JxfixRJwFwQsFuxQuomRAsE88fQ2Sp6X1Sa4y1Op46dsq1jTFX7BQGZArpjd1qMEbYuNuAIAMqTX6pw44KX1CdWtpBMHmq6NCxWEokRBNPN_15qiEyV0PGhMx7jJBUFjT__7QfRWZQFK7KJo8iDIcLqDgx_SP)
+![Homer Simpson disappearing into bushes meme: "Management thinking they can skip testing and still get quality" / Homer backing into bushes labeled "Technical debt"](/images/posts/blogger-71bf54a487.png)[](/images/posts/blogger-2bd2e07f23.png)
 
 ### The Quality vs. Delivery False Dilemma
 
@@ -62,7 +62,7 @@ This creates a toxic cycle where:
 5. **Pressure increases** to deliver even faster to compensate
 6. **Quality degrades further** and the cycle accelerates
 
-![Vicious cycle meme: Bike rider putting stick in his own spokes, labeled "Management demanding both speed and quality", falling labeled "Blaming developers when quality suffers"](https://blogger.googleusercontent.com/img/a/AVvXsEg-bNXZTbsSCJyQng20SRN_Hi9vO7Jh1dL9AymYKeqI1fdEpOKeYgHS7krdH2DADl_Lhi2b5iVqmOAQtcUS1cPorDOAp_SgXQBMyRG-uS3c7ZoGCPZgrdZw92hM_IEKNUJLxFHTxBlnMsQlqdcjs-O9Jwibpac4NpHxim0I6DUDa8vruHPDPwRSKPjK8xjt=w293-h400)[](https://blogger.googleusercontent.com/img/a/AVvXsEg-bNXZTbsSCJyQng20SRN_Hi9vO7Jh1dL9AymYKeqI1fdEpOKeYgHS7krdH2DADl_Lhi2b5iVqmOAQtcUS1cPorDOAp_SgXQBMyRG-uS3c7ZoGCPZgrdZw92hM_IEKNUJLxFHTxBlnMsQlqdcjs-O9Jwibpac4NpHxim0I6DUDa8vruHPDPwRSKPjK8xjt)  
+![Vicious cycle meme: Bike rider putting stick in his own spokes, labeled "Management demanding both speed and quality", falling labeled "Blaming developers when quality suffers"](/images/posts/blogger-43ca5aef8a.png)[](/images/posts/blogger-e6fe2089af.png)  
 
 ### The Hidden Cost of Quality Shortcuts
 
@@ -170,7 +170,7 @@ Imagine if we flipped the entire development process:
 4. **Code reviews focus** on "Does this fulfill our contracts?"
 5. **Delivery means** all promises are kept
 
-![Drake meme: Top panel (disapproval) - "Building features and hoping stakeholders like them" / Bottom panel (approval) - "Getting stakeholder agreement on test contracts before building anything"](https://blogger.googleusercontent.com/img/a/AVvXsEiUkmRAkPdg1TpwB6V4gDYhgxDSpLmf4GsSO8ufXBKL0RzcQVWSymffpzY15odanLBlYCXVcEQqxI5YxK9jWrXqTF642Y_51rqiWXAopcuGOIicHVithFEKbgn92t_73fM9AtptbwTSqpYMwPf8Zgmp6pHq3WMJMYHK5UPUDX6zPsQ3F1MmPVsW3ur32Cim=w400-h400)[](https://blogger.googleusercontent.com/img/a/AVvXsEiUkmRAkPdg1TpwB6V4gDYhgxDSpLmf4GsSO8ufXBKL0RzcQVWSymffpzY15odanLBlYCXVcEQqxI5YxK9jWrXqTF642Y_51rqiWXAopcuGOIicHVithFEKbgn92t_73fM9AtptbwTSqpYMwPf8Zgmp6pHq3WMJMYHK5UPUDX6zPsQ3F1MmPVsW3ur32Cim)  
+![Drake meme: Top panel (disapproval) - "Building features and hoping stakeholders like them" / Bottom panel (approval) - "Getting stakeholder agreement on test contracts before building anything"](/images/posts/blogger-714065f7e7.png)[](/images/posts/blogger-84916b90a5.png)  
 
 ## From "I Don't Know What to Test" to "What Value Am I Promising?"
 
@@ -290,7 +290,7 @@ This isn't anti-TDD or anti-BDD - it's **meta-TDD** that operates at the stake
 - **BDD** says: Write behavior specs for better requirements
 - **Value-Driven** says: Write stakeholder contracts for better outcomes
 
-![Expanding brain meme: Small brain - "Write code then test" / Medium brain - "Write tests then code (TDD)" / Large brain - "Write behavior specs (BDD)" / Galaxy brain - "Write stakeholder value contracts first"](https://blogger.googleusercontent.com/img/a/AVvXsEjCN7zrrVOghNYUStv4ZZBDCK2NaaPqUZe42bcqo0t6YFMkdBYHeGpKNCdnPSqxIEz1m_C2GBVd46nvpC9vkC7TCNYLyxnw11Lf2CMfJ2bsRk0m6YE_Aw4Phxk3rqOcQf-C77MPJu-6HBTqovauVUv7vN1l5IVWuOjSbFvpCo_m_UTLF7Nglp17bwsMDmlb=w285-h400)[](https://blogger.googleusercontent.com/img/a/AVvXsEjCN7zrrVOghNYUStv4ZZBDCK2NaaPqUZe42bcqo0t6YFMkdBYHeGpKNCdnPSqxIEz1m_C2GBVd46nvpC9vkC7TCNYLyxnw11Lf2CMfJ2bsRk0m6YE_Aw4Phxk3rqOcQf-C77MPJu-6HBTqovauVUv7vN1l5IVWuOjSbFvpCo_m_UTLF7Nglp17bwsMDmlb)  
+![Expanding brain meme: Small brain - "Write code then test" / Medium brain - "Write tests then code (TDD)" / Large brain - "Write behavior specs (BDD)" / Galaxy brain - "Write stakeholder value contracts first"](/images/posts/blogger-be15b44edf.png)[](/images/posts/blogger-771e691fa6.png)  
 
 The natural progression becomes:
 
@@ -381,7 +381,7 @@ This reframe addresses fundamental problems in software development:
 - **Fewer bugs**: Edge cases identified before implementation
 - **Consistent experience**: Behavior is defined and validated
 
-![Success kid meme: "Shipped feature on time" / "And it's exactly what stakeholders wanted because we agreed on test contracts first"](https://blogger.googleusercontent.com/img/a/AVvXsEhzFIJO6zpw7HUxM5TSwbD1Y4pDeHk79iyAU3cQOFPkCCEzsqDLVdsRWI2k_g4zw18LKsPkftL4vS3UcO_7E_NUcivGIAcn4Mm4aWn0NqjyyiFxmcllx_kupr_cRH97uGOy_dw6wWHpVHltJkAoy3MakPxDEKqRQXSVnuI4zbOtD9OarVo1iNyGkJKdJ95e)[](https://blogger.googleusercontent.com/img/a/AVvXsEhzFIJO6zpw7HUxM5TSwbD1Y4pDeHk79iyAU3cQOFPkCCEzsqDLVdsRWI2k_g4zw18LKsPkftL4vS3UcO_7E_NUcivGIAcn4Mm4aWn0NqjyyiFxmcllx_kupr_cRH97uGOy_dw6wWHpVHltJkAoy3MakPxDEKqRQXSVnuI4zbOtD9OarVo1iNyGkJKdJ95e)  
+![Success kid meme: "Shipped feature on time" / "And it's exactly what stakeholders wanted because we agreed on test contracts first"](/images/posts/blogger-26df36d4a1.png)[](/images/posts/blogger-26df36d4a1.png)  
 
 ## The Bottom Line: From Code-Driven to Value-Driven
 

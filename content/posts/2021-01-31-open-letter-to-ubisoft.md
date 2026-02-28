@@ -1,10 +1,10 @@
 ---
 title: "Open Letter to Ubisoft"
 date: 2021-01-31
-type: post
+slug: "open-letter-to-ubisoft"
+tags: ["gaming", "culture", "opinion"]
+description: "I did nothing. Yet, suddenly, it resolved itself. My Ubisoft content spontaneously started working about a week, or less, after I posted this and emailed..."
 ---
-
-# Open Letter to Ubisoft
 
 ### The Long Overdue Update
 I did nothing. Yet, suddenly, it resolved itself. My Ubisoft content spontaneously started working about a week, or less, after I posted this and emailed those listed below. I have no illusions that my actions got any attention at all as I got no reply to the email. However, something changed and it wasn't my system. I know because I was monitoring my OS, after the many reinstalls mentioned below, to see if updates came along that would impact the launching of the affected titles in Ubisoft Connect. One day, they just started working again. It took several months total to resolve the issue, which is a damned shame, and no word from Ubisoft as to why or what they did to resolve the issue. I still maintain that their support, last I interacted with them, could stand to improve. However, I am again happily playing Assassin's Creed on my PC and I think, for the time, I'll limit my purchases of future titles to console to reduce the risk of losing access to them again.  
