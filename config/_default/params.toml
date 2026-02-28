@@ -30,7 +30,7 @@ enableCodeCopy = true
   showTableOfContents = true
   showTaxonomies = true
   showWordCount = false
-  showComments = false
+  showComments = true
   showSummary = true
 
 [list]
