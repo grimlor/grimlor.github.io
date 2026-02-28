@@ -2,6 +2,8 @@
 title: "The FastMCP Dataclass Parameter Trap: When Pydantic Lies (By Omission)"
 date: 2026-02-15
 type: post
+series: ["FastMCP Debugging"]
+series_order: 2
 ---
 
 # The FastMCP Dataclass Parameter Trap: When Pydantic Lies (By Omission)

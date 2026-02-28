@@ -2,6 +2,8 @@
 title: "Why Your Tests Passed But Your API Failed - The SerDe Boundary Problem"
 date: 2026-02-13
 type: post
+series: ["FastMCP Debugging"]
+series_order: 1
 ---
 
 # Why Your Tests Passed But Your API Failed - The SerDe Boundary Problem

@@ -2,6 +2,8 @@
 title: "Debugging False Memories: A Case Study in Systematic Investigation"
 date: 2026-02-16
 type: post
+series: ["FastMCP Debugging"]
+series_order: 4
 ---
 
 # Debugging False Memories: A Case Study in Systematic Investigation

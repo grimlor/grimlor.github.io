@@ -2,6 +2,8 @@
 title: "Code Review in the Age of AI: When Design Smells Hide in Plain Sight"
 date: 2026-02-15
 type: post
+series: ["FastMCP Debugging"]
+series_order: 3
 ---
 
 # Code Review in the Age of AI: When Design Smells Hide in Plain Sight
