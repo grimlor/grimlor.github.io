@@ -17,7 +17,7 @@ Famous last words from a software engineer. I said them with confidence during m
 Then I did the git archaeology. It never worked. Not once. The memory was completely false.
 
 ![Astronaut looking at Earth: "Wait, it's all false memories?" Astronaut aiming gun at other astronaut: "Always has been"](https://i.imgflip.com/ak8fs2.jpg)
-
+<!--more-->
 Here's the uncomfortable part: I'm usually right about these things. Pattern recognition is one of my strengths—comes with the neurodivergent territory (AuDHD, recently diagnosed, finally explains some things). I can spot patterns across codebases, remember edge cases from months ago, and track mental state machines through complex systems.
 
 But this time? My brain confidently remembered something that never happened.
