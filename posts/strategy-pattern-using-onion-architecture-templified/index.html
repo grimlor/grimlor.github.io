@@ -48,7 +48,7 @@ public ActionResult PerformSearch(QueryModel queryModel)
     {
         var products = new List&lt;Product&gt;();
 
-        var service = new ShoppingService { Key = &#34;AIzaSyBcWCofOByUzp-EekjUCMxa30h-D9U95eE&#34; };
+        var service = new ShoppingService { Key = &#34;YOUR_API_KEY_HERE&#34; };
         var request = service.Products.List(&#34;public&#34;);
         request.Country = &#34;us&#34;;
         request.Q = query;
