@@ -26,11 +26,7 @@
         {{ partial "article-meta.html" . }}
       </div>
       <div class="prose mt-3 dark:prose-invert">
-        {{ with .Description }}
-          {{ . | markdownify | emojify }}
-        {{ else }}
-          {{ .Summary | emojify }}
-        {{ end }}
+        {{ .Summary | emojify }}
       </div>
       <div class="mt-3">
         <a
