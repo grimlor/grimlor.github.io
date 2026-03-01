@@ -8,7 +8,7 @@ images = ["/images/default-og.jpg"]
 # Site description (used in meta description + OG description for homepage)
 description = "Musings on software development, AI, and the tech industry from a veteran engineer."
 
-colorScheme = "congo"
+colorScheme = "fire"
 defaultAppearance = "auto"    # auto = follows OS preference
 autoSwitchAppearance = true
 
