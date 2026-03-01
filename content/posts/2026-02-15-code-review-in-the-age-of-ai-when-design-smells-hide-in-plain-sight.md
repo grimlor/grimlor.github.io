@@ -298,7 +298,7 @@ That's your job now. And this time, I actually did mine.
 
 ## Related Posts
 
-- [Why Your Tests Passed But Your API Failed](http://www.jackpines.info/2026/02/why-your-tests-passed-but-your-api.html) - Why my tests didn't catch it
-- [The FastMCP Dataclass Parameter Trap](http://www.jackpines.info/2026/02/the-fastmcp-dataclass-parameter-trap.html) - What actually broke
-- [Debugging False Memories](http://www.jackpines.info/2026/02/debugging-false-memories-case-study-in.html) - A case study in systematic investigations
+- [Why Your Tests Passed But Your API Failed](/posts/why-your-tests-passed-but-your-api-failed-the-serde-boundary-problem/) - Why my tests didn't catch it
+- [The FastMCP Dataclass Parameter Trap](/posts/the-fastmcp-dataclass-parameter-trap-when-pydantic-lies-by-omission/) - What actually broke
+- [Debugging False Memories](/posts/debugging-false-memories-a-case-study-in-systematic-investigation/) - A case study in systematic investigations
 -

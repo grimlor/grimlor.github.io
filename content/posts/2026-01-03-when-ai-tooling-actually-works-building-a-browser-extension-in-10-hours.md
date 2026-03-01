@@ -29,7 +29,7 @@ Here's what I did differently than the typical "AI will do everything" approach:
 
 ### 1. Started with BDD Test Specifications
 
-I didn't just say "build me an extension." I started with stating my goal and asking for a design doc for me to review. The biggest mistake many make is allowing it to code off a single prompt, and then chasing the AI into seeing your vision. (The same mistake happens in many enterprise organizations with humans at the wheel, too.) I then shared my Behavior-Driven Development testing documentation framework ([see my prior post on BDD](http://www.jackpines.info/2025/08/the-great-testing-reframe-from.html)). This gave the AI:
+I didn't just say "build me an extension." I started with stating my goal and asking for a design doc for me to review. The biggest mistake many make is allowing it to code off a single prompt, and then chasing the AI into seeing your vision. (The same mistake happens in many enterprise organizations with humans at the wheel, too.) I then shared my Behavior-Driven Development testing documentation framework ([see my prior post on BDD](/posts/the-great-testing-reframe-from-implementation-driven-to-value-driven-development/)). This gave the AI:
 
 - Clear acceptance criteria
 - Expected behaviors

@@ -5,14 +5,14 @@ tags: ["Lightbend", "TheFuture", "Serverless", "Akka", "AkkaServerless"]
 series: ["Akka Serverless"]
 series_order: 2
 slug: "akka-serverless-the-future-of-software-part-2"
-description: "[When last we met](http://www.jackpines.info/2021/10/akka-serverless-future-of-software-part.html), Dear Reader, I was leading into why I think [Akka..."
+description: "[When last we met](/posts/akka-serverless-the-future-of-software-part-1/), Dear Reader, I was leading into why I think [Akka..."
 aliases:
   - "/2021/10/akka-serverless-future-of-software-part_11.html"
 ---
 
 ## You Were Saying?
 
-[When last we met](http://www.jackpines.info/2021/10/akka-serverless-future-of-software-part.html), Dear Reader, I was leading into why I think [Akka Serverless](https://www.lightbend.com/akka-serverless) is the future of software, at least any software built to run in the cloud, by giving you a little of my back story. Today I'm going to talk about the foundations upon which Akka Serverless is built. To do that, I have to present a few...
+[When last we met](/posts/akka-serverless-the-future-of-software-part-1/), Dear Reader, I was leading into why I think [Akka Serverless](https://www.lightbend.com/akka-serverless) is the future of software, at least any software built to run in the cloud, by giving you a little of my back story. Today I'm going to talk about the foundations upon which Akka Serverless is built. To do that, I have to present a few...
 
 ## Definitions
 **[reactive](https://www.merriam-webster.com/dictionary/reactive)** ****[adjective](https://www.merriam-webster.com/dictionary/adjective)
@@ -88,4 +88,4 @@ There is another step in maturity needed, which brings me back to being message-
 
 ## Stay Tuned
 
-Did I say TL;DR version? If you're new here, you've now learned what those who know me already knew. "Long" is my middle name. This has gotten long, though still a lot shorter than either of the two sites on defining Reactive systems. So, [I will pick up on my next post](http://www.jackpines.info/2021/11/akka-serverless-future-of-software-part.html) with what being message-driven means and how an old pattern became new again.
+Did I say TL;DR version? If you're new here, you've now learned what those who know me already knew. "Long" is my middle name. This has gotten long, though still a lot shorter than either of the two sites on defining Reactive systems. So, [I will pick up on my next post](/posts/akka-serverless-the-future-of-software-part-3/) with what being message-driven means and how an old pattern became new again.

@@ -28,8 +28,7 @@ Respectfully,
 
 Jack Pines
 
-[Blog: http://www.jackpines.info](http://www.jackpines.info/)  
-[Twitter: http://twitter.com/JackPinesInfo](http://www.twitter.com/JackPinesInfo)  
+[Blog: https://www.jackpines.info](https://www.jackpines.info/)
 [LinkedIn: http://www.linkedin.com/in/jackpines](http://www.linkedin.com/in/jackpines)
 
 ### Background

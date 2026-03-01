@@ -208,7 +208,7 @@ Don't ask me how I know.
 
 ## Related Posts
 
-- [The FastMCP Dataclass Parameter Trap](https://www.jackpines.info/2026/02/the-fastmcp-dataclass-parameter-trap.html) - Technical deep-dive on the specific MCP framework issue
-- [Code Review in the Age of AI](http://www.jackpines.info/2026/02/code-review-in-age-of-ai-when-design.html) - When design smells hide in plain sight
-- [Debugging False Memories](http://www.jackpines.info/2026/02/debugging-false-memories-case-study-in.html) - A case study in systematic investigations
+- [The FastMCP Dataclass Parameter Trap](/posts/the-fastmcp-dataclass-parameter-trap-when-pydantic-lies-by-omission/) - Technical deep-dive on the specific MCP framework issue
+- [Code Review in the Age of AI](/posts/code-review-in-the-age-of-ai-when-design-smells-hide-in-plain-sight/) - When design smells hide in plain sight
+- [Debugging False Memories](/posts/debugging-false-memories-a-case-study-in-systematic-investigation/) - A case study in systematic investigations
 -

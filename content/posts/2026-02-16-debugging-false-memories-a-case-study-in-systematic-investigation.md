@@ -266,8 +266,8 @@ Because I've learned the hard way: my memory is a feature, not a fact.
 
 ## The Full Story
 
-- [Why Your Tests Passed But Your API Failed](http://www.jackpines.info/2026/02/why-your-tests-passed-but-your-api.html) - Why my tests didn't catch it
-- [The FastMCP Dataclass Parameter Trap](http://www.jackpines.info/2026/02/the-fastmcp-dataclass-parameter-trap.html) - What actually broke
-- [Code Review in the Age of AI](http://www.jackpines.info/2026/02/code-review-in-age-of-ai-when-design.html) - How AI almost made it worse
+- [Why Your Tests Passed But Your API Failed](/posts/why-your-tests-passed-but-your-api-failed-the-serde-boundary-problem/) - Why my tests didn't catch it
+- [The FastMCP Dataclass Parameter Trap](/posts/the-fastmcp-dataclass-parameter-trap-when-pydantic-lies-by-omission/) - What actually broke
+- [Code Review in the Age of AI](/posts/code-review-in-the-age-of-ai-when-design-smells-hide-in-plain-sight/) - How AI almost made it worse
 - 
 -

@@ -17,7 +17,7 @@ Well, now that you mention it, I did about a month of sleeping since my last pos
 Oh, no! I just realized that I never told you that you can skip the queue (and my blog) to get right to [playing with what I think is the Next Big Thing™️](https://console.akkaserverless.com/p/register).
 
 ## Now Where Was I?
-Ah, yes, I'd introduced you to the [Reactive Principles](https://principles.reactive.foundation/) and set the stage for talking about building message-driven software. If that's a puzzled look I'm seeing on your face, [go back and see my previous post](https://www.jackpines.info/2021/10/akka-serverless-future-of-software-part_11.html) to catch up.
+Ah, yes, I'd introduced you to the [Reactive Principles](https://principles.reactive.foundation/) and set the stage for talking about building message-driven software. If that's a puzzled look I'm seeing on your face, [go back and see my previous post](/posts/akka-serverless-the-future-of-software-part-2/) to catch up.
 
 Let me sum it up:
 
@@ -58,4 +58,4 @@ For every system, such as this mocha production line, there are actors in the sy
 
 The stage is now set to finally introduce you to Akka, the underpinning technology to Akka Serverless. There are many coordinating components to [the Akka Platform](https://www.lightbend.com/akka-platform) but I want to focus on the Actor.
 
-[In my next post.](http://www.jackpines.info/2022/01/were-all-actors-on-stage-of-life.html) 😎
+[In my next post.](/posts/were-all-actors-on-the-stage-of-life/) 😎

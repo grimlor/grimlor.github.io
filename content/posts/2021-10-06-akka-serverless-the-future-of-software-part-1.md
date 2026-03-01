@@ -46,4 +46,4 @@ With that in mind, I'm starting this new series on a service from Lightbend, [cu
 
 Oh! I almost forgot to mention that I also picked up a new language, thanks to Lightbend. I'm now building with [Scala](https://www.lightbend.com/scala-the-lingua-franca-of-scalable-systems). I'll be using Scala in some of my demos as it reads almost like pseudocode. However, [Akka Serverless supports a wide variety of programming languages](https://developer.lightbend.com/docs/akka-serverless/setting-up/index.html#_supported_languages), including full tutorials for Java and JavaScript. So, you never know what language I'll demo next.
 
-As the heading says, [stay tuned](http://www.jackpines.info/2021/10/akka-serverless-future-of-software-part_11.html)!
+As the heading says, [stay tuned](/posts/akka-serverless-the-future-of-software-part-2/)!

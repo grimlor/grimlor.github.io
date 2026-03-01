@@ -18,7 +18,7 @@ Until it doesn't.
 
 I was building MCP tools for Azure DevOps integration when I discovered something interesting: FastMCP has a subtle asymmetry in how it handles dataclasses. It'll happily serialize your dataclass *outputs* to JSON for clients, but it won't deserialize JSON *inputs* back into your dataclass parameters.
 
-This cost me several hours of debugging, a comprehensive RCA document, and one blog post about testing the wrong layer (see: [Why Your Tests Passed But Your API Failed](https://www.jackpines.info/2026/02/why-your-tests-passed-but-your-api.html)).
+This cost me several hours of debugging, a comprehensive RCA document, and one blog post about testing the wrong layer (see: [Why Your Tests Passed But Your API Failed](/posts/why-your-tests-passed-but-your-api-failed-the-serde-boundary-problem/)).
 
 Let me save you the same journey.
 
@@ -225,7 +225,7 @@ Just don't assume that because dataclass outputs work, dataclass inputs will too
 
 ## Related Posts
 
-- [Why Your Tests Passed But Your API Failed: The SerDe Boundary Problem](https://www.jackpines.info/2026/02/why-your-tests-passed-but-your-api.html) - The testing gap that hid this bug
-- [Code Review in the Age of AI](http://www.jackpines.info/2026/02/code-review-in-age-of-ai-when-design.html) - How AI almost made it worse
-- [Debugging False Memories](http://www.jackpines.info/2026/02/debugging-false-memories-case-study-in.html) - A case study in systematic investigations
+- [Why Your Tests Passed But Your API Failed: The SerDe Boundary Problem](/posts/why-your-tests-passed-but-your-api-failed-the-serde-boundary-problem/) - The testing gap that hid this bug
+- [Code Review in the Age of AI](/posts/code-review-in-the-age-of-ai-when-design-smells-hide-in-plain-sight/) - How AI almost made it worse
+- [Debugging False Memories](/posts/debugging-false-memories-a-case-study-in-systematic-investigation/) - A case study in systematic investigations
 -

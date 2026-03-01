@@ -14,7 +14,7 @@ Where have I been? Good question as clearly it hasn't been maintaining my blog o
 
 ### Let's review
 
-Almost 4.5 years ago I wrote [that article which told my story of getting to Microsoft as a Software Engineer](https://www.jackpines.info/2016/04/how-to-become-software-engineer-part-1.html). That was at the bequest of [a friend](https://www.linkedin.com/in/philhagerman/) who kept prodding me to put it to digital ink. I hoped it would inspire folks who, like me, didn't have the good fortune to afford a degree, in computer science or otherwise, that they, too, could become software engineers. Honestly, I doubt it got enough traffic for anyone to be inspired but it's the thought that counts, right? Hello? Is this thing on? 
+Almost 4.5 years ago I wrote [that article which told my story of getting to Microsoft as a Software Engineer](/posts/how-to-become-a-software-engineer-part-1/). That was at the bequest of [a friend](https://www.linkedin.com/in/philhagerman/) who kept prodding me to put it to digital ink. I hoped it would inspire folks who, like me, didn't have the good fortune to afford a degree, in computer science or otherwise, that they, too, could become software engineers. Honestly, I doubt it got enough traffic for anyone to be inspired but it's the thought that counts, right? Hello? Is this thing on? 
 
 ### Ok, but where have you been?
 

@@ -337,7 +337,7 @@ Related Projects:
 - [Workflow Orchestrator MCP](https://github.com/grimlor/workflow-orchestrator-mcp) — This project, automated workflow execution
 
 More on Design-First Development:  
-I'll be writing more about the demo-assistant series and how it informed this orchestrator. If you want to follow along, I'm at [jackpines.info](https://jackpines.info/) and occasionally on [LinkedIn](https://www.linkedin.com/in/jackpines/).
+I'll be writing more about the demo-assistant series and how it informed this orchestrator. If you want to follow along, I'm at [jackpines.info](https://www.jackpines.info/) and occasionally on [LinkedIn](https://www.linkedin.com/in/jackpines/).
 
 Now if you'll excuse me, I need to fix the fact that my own repository still only has 1 star. The orchestrator was very pointed about that.
 

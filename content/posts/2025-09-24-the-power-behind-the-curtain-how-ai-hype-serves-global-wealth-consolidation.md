@@ -12,7 +12,7 @@ aliases:
 
 ******![Wizard of Oz Exposed: Pay no attention to the billionaire behind the AI](/images/posts/Wizard-of-AI.jpg)[](/images/posts/Wizard-of-AI.jpg)**
 
-*This is part two of a series examining the gap between AI promises and reality. [Part one](https://www.jackpines.info/2025/09/the-great-ai-theater-when-corporate.html) explored the technical failures of current AI implementations. This part examines the broader economic and political forces driving AI adoption despite those failures.*
+*This is part two of a series examining the gap between AI promises and reality. [Part one](/posts/the-great-ai-theater-when-corporate-tools-fail-the-reality-test/) explored the technical failures of current AI implementations. This part examines the broader economic and political forces driving AI adoption despite those failures.*
 
 ## From Clippy to Skynet: The Real Artificial Intelligence Was the Oligarchs We Made Along the Way
 

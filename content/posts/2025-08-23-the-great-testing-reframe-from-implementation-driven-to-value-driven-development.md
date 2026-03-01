@@ -3,7 +3,7 @@ title: "The Great Testing Reframe: From Implementation-Driven to Value-Driven De
 date: 2025-08-23
 slug: "the-great-testing-reframe-from-implementation-driven-to-value-driven-development"
 tags: ["testing", "TDD", "best practices"]
-description: "In my previous post about [descriptive vs prescriptive testing](https://www.jackpines.info/2025/08/descriptive-vs-prescriptive-testing.html), we explored..."
+description: "In my previous post about [descriptive vs prescriptive testing](/posts/descriptive-vs-prescriptive-testing-transforming-code-reviews-through-better-tes/), we explored..."
 aliases:
   - "/2025/08/the-great-testing-reframe-from.html"
 ---
@@ -14,7 +14,7 @@ aliases:
 
 # 
 
-In my previous post about [descriptive vs prescriptive testing](https://www.jackpines.info/2025/08/descriptive-vs-prescriptive-testing.html), we explored how behavior-focused tests transform code reviews and create more resilient software. But that insight reveals a much deeper problem with how our industry approaches development.
+In my previous post about [descriptive vs prescriptive testing](/posts/descriptive-vs-prescriptive-testing-transforming-code-reviews-through-better-tes/), we explored how behavior-focused tests transform code reviews and create more resilient software. But that insight reveals a much deeper problem with how our industry approaches development.
 
 **What if the entire "code first, test later" paradigm is fundamentally backwards?**
 
