@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Psychology on Adventures in Software Development</title><link>https://jackpines.info/tags/psychology/</link><description>Recent content in Psychology on Adventures in Software Development</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://jackpines.info/tags/psychology/index.xml" rel="self" type="application/rss+xml"/><item><title>Debugging False Memories: A Case Study in Systematic Investigation</title><link>https://jackpines.info/posts/debugging-false-memories-a-case-study-in-systematic-investigation/</link><pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate><guid>https://jackpines.info/posts/debugging-false-memories-a-case-study-in-systematic-investigation/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Psychology on Adventures in Software Development</title><link>https://jackpines.info/tags/psychology/</link><description>Recent content in Psychology on Adventures in Software Development</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 16 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://jackpines.info/tags/psychology/index.xml" rel="self" type="application/rss+xml"/><item><title>Debugging False Memories: A Case Study in Systematic Investigation</title><link>https://jackpines.info/posts/debugging-false-memories-a-case-study-in-systematic-investigation/</link><pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate><guid>https://jackpines.info/posts/debugging-false-memories-a-case-study-in-systematic-investigation/</guid><description>&lt;p&gt;&lt;strong&gt;&amp;ldquo;I&amp;rsquo;m pretty sure this worked before.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Famous last words from a software engineer. I said them with confidence during my MCP dataclass debugging session. I had this vivid memory of calling the function with a dataclass parameter and watching it work in production.&lt;/p&gt;
+&lt;p&gt;Then I did the git archaeology. It never worked. Not once. The memory was completely false.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+ 
+ 
+&lt;figure&gt;&lt;img src="https://i.imgflip.com/ak8fs2.jpg" alt="Astronaut looking at Earth: &amp;ldquo;Wait, it&amp;rsquo;s all false memories?&amp;rdquo; Astronaut aiming gun at other astronaut: &amp;ldquo;Always has been&amp;rdquo;" class="mx-auto my-0 rounded-md" /&gt;
+&lt;/figure&gt;
+&lt;/p&gt;</description></item></channel></rss>
