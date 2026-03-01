@@ -4,6 +4,8 @@ date: 2025-09-22
 slug: "the-great-ai-theater-when-corporate-tools-fail-the-reality-test"
 tags: ["AI", "corporate culture", "opinion"]
 description: "*Or: How I Learned to Stop Worrying and Love Arguing with Robots That Always Think I'm Right*"
+aliases:
+  - "/2025/09/the-great-ai-theater-when-corporate.html"
 ---
 
 *Or: How I Learned to Stop Worrying and Love Arguing with Robots That Always Think I'm Right*

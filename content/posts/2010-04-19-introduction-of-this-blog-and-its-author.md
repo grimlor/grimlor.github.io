@@ -4,6 +4,8 @@ date: 2010-04-19
 tags: ["development", "business intelligence", "introduction", "BI"]
 slug: "introduction-of-this-blog-and-its-author"
 description: "If you've found this post, then you've arrived early to the action.  My goal with this blog is to introduce myself and share what I've learned most recently..."
+aliases:
+  - "/2010/04/introduction-of-this-blog-and-its.html"
 ---
 
 If you've found this post, then you've arrived early to the action.  My goal with this blog is to introduce myself and share what I've learned most recently in my growth as a Business Intelligence developer.  

@@ -4,6 +4,8 @@ date: 2012-07-20
 tags: ["resources", ".NET"]
 slug: "making-global-resources-public"
 description: "I am posting this here strictly as a reminder for myself but if anyone wants to comment about how bad a practice this is then please feel free. [This is..."
+aliases:
+  - "/2012/07/making-global-resources-public.html"
 ---
 
 I am posting this here strictly as a reminder for myself but if anyone wants to comment about how bad a practice this is then please feel free. [This is probably a better solution.](http://odetocode.com/Blogs/scott/archive/2009/07/16/resource-files-and-asp-net-mvc-projects.aspx)  

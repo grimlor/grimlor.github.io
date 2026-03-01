@@ -4,6 +4,8 @@ date: 2021-01-31
 slug: "open-letter-to-ubisoft"
 tags: ["gaming", "culture", "opinion"]
 description: "I did nothing. Yet, suddenly, it resolved itself. My Ubisoft content spontaneously started working about a week, or less, after I posted this and emailed..."
+aliases:
+  - "/2021/01/open-letter-to-ubisoft.html"
 ---
 
 ### The Long Overdue Update

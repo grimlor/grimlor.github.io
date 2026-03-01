@@ -6,6 +6,8 @@ series_order: 3
 slug: "code-review-in-the-age-of-ai-when-design-smells-hide-in-plain-sight"
 tags: ["AI", "code review", "Python", "FastMCP"]
 description: "I used to review code for correctness. Does it work? Is the logic sound? Are the tests passing? Ship it."
+aliases:
+  - "/2026/02/code-review-in-age-of-ai-when-design.html"
 ---
 
 I used to review code for correctness. Does it work? Is the logic sound? Are the tests passing? Ship it.

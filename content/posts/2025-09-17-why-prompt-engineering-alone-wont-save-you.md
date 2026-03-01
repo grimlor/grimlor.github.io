@@ -4,6 +4,8 @@ date: 2025-09-17
 slug: "why-prompt-engineering-alone-wont-save-you"
 tags: ["AI", "prompt engineering", "software engineering"]
 description: "I’ve been working on a project where GitHub Copilot is a close collaborator. To make sure things go smoothly, I put together **comprehensive, pinned..."
+aliases:
+  - "/2025/09/why-prompt-engineering-alone-wont-save.html"
 ---
 
 ## The Setup

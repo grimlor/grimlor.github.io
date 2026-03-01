@@ -4,6 +4,8 @@ date: 2025-08-23
 slug: "the-great-testing-reframe-from-implementation-driven-to-value-driven-development"
 tags: ["testing", "TDD", "best practices"]
 description: "In my previous post about [descriptive vs prescriptive testing](https://www.jackpines.info/2025/08/descriptive-vs-prescriptive-testing.html), we explored..."
+aliases:
+  - "/2025/08/the-great-testing-reframe-from.html"
 ---
 
 # *A follow-up to "Descriptive vs Prescriptive Testing" - Why the industry needs tests-first contracts for stakeholder alignment*

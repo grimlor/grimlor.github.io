@@ -4,6 +4,8 @@ date: 2010-07-13
 tags: ["unit testing ASP.NET 3.5 site Visual Studio 2010 errors"]
 slug: "error-500-referencing-vsenterprisehelper-when-running-unit-test-of-aspnet-in-vs2"
 description: "As noted previously, I want to move to test-driven development. My first step towards that end is to add unit tests to my team's existing projects. So,..."
+aliases:
+  - "/2010/07/error-500-referencing.html"
 ---
 
 As noted previously, I want to move to test-driven development. My first step towards that end is to add unit tests to my team's existing projects. So, while working to retrofit a web dashboard project I co-authored to use my new DataFactories class, I added unit testing to it. Upon every attempt to run the first test, however, I was receiving the following error:  

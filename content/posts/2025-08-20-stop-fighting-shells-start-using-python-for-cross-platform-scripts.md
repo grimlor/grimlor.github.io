@@ -4,6 +4,8 @@ date: 2025-08-20
 slug: "stop-fighting-shells-start-using-python-for-cross-platform-scripts"
 tags: ["Python", "scripting", "cross-platform", "DevOps"]
 description: "Like many developers working across different environments, I found myself maintaining platform-specific shell commands that worked great... until they didn't."
+aliases:
+  - "/2025/08/stop-fighting-shells-start-using-python.html"
 ---
 
 # *How a simple coverage report task led me to discover the universal scripting solution hiding in plain sight*

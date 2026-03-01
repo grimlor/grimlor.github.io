@@ -6,6 +6,8 @@ series_order: 2
 slug: "how-to-become-a-software-engineer-part-2-or-where-have-you-been-jack"
 tags: ["career", "software engineering", "learning"]
 description: "Where have I been? Good question as clearly it hasn't been maintaining my blog or telling you the part 2 of becoming a software engineer. So, what have I..."
+aliases:
+  - "/2020/12/how-to-become-software-engineer-part-2.html"
 ---
 
 Where have I been? Good question as clearly it hasn't been maintaining my blog or telling you the part 2 of becoming a software engineer. So, what have I been doing? 

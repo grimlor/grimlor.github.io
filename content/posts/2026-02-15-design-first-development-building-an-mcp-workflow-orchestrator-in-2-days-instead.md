@@ -4,6 +4,8 @@ date: 2026-02-15
 slug: "design-first-development-building-an-mcp-workflow-orchestrator-in-2-days-instead"
 tags: ["MCP", "Python", "design", "architecture"]
 description: "I built a workflow orchestrator that analyzes GitHub repositories. On day one, I pointed it at itself."
+aliases:
+  - "/2026/02/design-first-development-building-mcp.html"
 ---
 
 # Eating My Own Dog Food (Recursively)

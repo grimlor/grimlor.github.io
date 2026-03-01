@@ -4,6 +4,8 @@ date: 2026-01-03
 slug: "when-ai-tooling-actually-works-building-a-browser-extension-in-10-hours"
 tags: ["AI", "browser extension", "productivity"]
 description: "Yes, I'm writing a *positive* post about AI-assisted development. I know, I'm as shocked as you are. If you've read my previous posts, you know I'm not..."
+aliases:
+  - "/2026/01/when-ai-tooling-actually-works-building.html"
 ---
 
 ![](/images/posts/blogger-f799f6d1d0.png)[](/images/posts/blogger-f799f6d1d0.png)  

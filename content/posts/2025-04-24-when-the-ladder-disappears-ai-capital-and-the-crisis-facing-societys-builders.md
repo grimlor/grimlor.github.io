@@ -4,6 +4,8 @@ date: 2025-04-24
 slug: "when-the-ladder-disappears-ai-capital-and-the-crisis-facing-societys-builders"
 tags: ["AI", "career", "society", "opinion"]
 description: "*Posted on April 23, 2025 • Tags: AI, automation, labor, tech ethics, economy, future of work*"
+aliases:
+  - "/2025/04/when-ladder-disappears-ai-capital-and.html"
 ---
 
 *Posted on April 23, 2025 • Tags: AI, automation, labor, tech ethics, economy, future of work*

@@ -4,6 +4,8 @@ date: 2010-05-04
 tags: ["considerate coding", "best practices", "documentation"]
 slug: "are-you-a-considerate-coder"
 description: "**"
+aliases:
+  - "/2010/05/are-you-considerate-coder.html"
 ---
 
 **  

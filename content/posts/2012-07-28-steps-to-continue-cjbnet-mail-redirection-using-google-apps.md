@@ -4,6 +4,8 @@ date: 2012-07-28
 tags: ["catch-all mailbox", "CJB.net", "Google Apps"]
 slug: "steps-to-continue-cjbnet-mail-redirection-using-google-apps"
 description: "Foreword: CJB.NET discontinued service of catch-all mail forwarding at the end of July 2012 with a month's notice. If, like me, you found this service..."
+aliases:
+  - "/2012/07/steps-to-continue-cjbnet-mail.html"
 ---
 
 Foreword: CJB.NET discontinued service of catch-all mail forwarding at the end of July 2012 with a month's notice. If, like me, you found this service amazingly useful over the years it was provided free of service, this came as quite a blow. I used it for all my correspondence with corporations where I'd hand out an email address of @jackpines.cjb.net. So, you can imagine how many companies have been emailing me over the years. It allowed me to turn them off at any time even if they didn't give me an option of unsubscribing. It also let me know when they sold my email address.

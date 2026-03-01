@@ -4,6 +4,8 @@ date: 2010-06-10
 tags: ["data factory", "design patterns", "design", "datafactories", "data access methods", "data factories", "adomd stored procedures"]
 slug: "my-adventure-in-reinventing-the-wheel"
 description: "**Why I Needed a New Wheel**"
+aliases:
+  - "/2010/06/my-adventure-in-reinventing-wheel.html"
 ---
 
 **Why I Needed a New Wheel**  

@@ -4,6 +4,8 @@ date: 2025-09-24
 slug: "the-power-behind-the-curtain-how-ai-hype-serves-global-wealth-consolidation"
 tags: ["AI", "society", "opinion"]
 description: "*Part Two: Or, How Tech Billionaires Learned to Stop Worrying and Love Economic Feudalism*"
+aliases:
+  - "/2025/09/part-two-or-how-tech-billionaires.html"
 ---
 
 *Part Two: Or, How Tech Billionaires Learned to Stop Worrying and Love Economic Feudalism*

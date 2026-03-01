@@ -6,6 +6,8 @@ series_order: 4
 slug: "debugging-false-memories-a-case-study-in-systematic-investigation"
 tags: ["debugging", "psychology", "software engineering"]
 description: "**\"I'm pretty sure this worked before.\"**"
+aliases:
+  - "/2026/02/debugging-false-memories-case-study-in.html"
 ---
 
 **"I'm pretty sure this worked before."**

@@ -6,6 +6,8 @@ series: ["Akka Serverless"]
 series_order: 1
 slug: "akka-serverless-the-future-of-software-part-1"
 description: "For those just joining the game, you might peruse my posts and see that I have dabbled as a software developer/engineer in multiple languages. I got my..."
+aliases:
+  - "/2021/10/akka-serverless-future-of-software-part.html"
 ---
 
 ## Some History (Mine)

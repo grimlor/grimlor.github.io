@@ -5,6 +5,8 @@ draft: true
 slug: "hiatus-ended"
 tags: ["blogging", "meta"]
 description: "Dear Stalwart Reader,"
+aliases:
+  - "/2015/01/hiatus-ended.html"
 ---
 
 Dear Stalwart Reader,  

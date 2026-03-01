@@ -6,6 +6,8 @@ series: ["Akka Serverless"]
 series_order: 2
 slug: "akka-serverless-the-future-of-software-part-2"
 description: "[When last we met](http://www.jackpines.info/2021/10/akka-serverless-future-of-software-part.html), Dear Reader, I was leading into why I think [Akka..."
+aliases:
+  - "/2021/10/akka-serverless-future-of-software-part_11.html"
 ---
 
 ## You Were Saying?

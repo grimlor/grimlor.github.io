@@ -4,6 +4,8 @@ date: 2025-08-20
 slug: "descriptive-vs-prescriptive-testing-transforming-code-reviews-through-better-tes"
 tags: ["testing", "code review", "best practices"]
 description: "*How writing tests that describe behavior instead of implementation can revolutionize your code review process*"
+aliases:
+  - "/2025/08/descriptive-vs-prescriptive-testing.html"
 ---
 
 *How writing tests that describe behavior instead of implementation can revolutionize your code review process*

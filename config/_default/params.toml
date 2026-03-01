@@ -1,6 +1,10 @@
 # Theme parameters
 # See https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
+# Default Open Graph / social preview image (1200×630px recommended)
+# Place the file at static/images/default-og.jpg
+images = ["/images/default-og.jpg"]
+
 colorScheme = "congo"
 defaultAppearance = "auto"    # auto = follows OS preference
 autoSwitchAppearance = true

@@ -4,6 +4,8 @@ date: 2011-02-25
 slug: "my-first-hack-at-functional-programming"
 tags: ["functional programming", "learning"]
 description: "I'm learning that with every new bug I learn something. If you've been keeping up, I use my [Symantec.DataFactories](http://symantec.datafactories/) to code..."
+aliases:
+  - "/2011/02/my-first-hack-at-functional-programming.html"
 ---
 
 I'm learning that with every new bug I learn something. If you've been keeping up, I use my [Symantec.DataFactories](http://symantec.datafactories/) to code against SSAS OLAP cubes. It's very rare, but I discovered that it is possible (and I didn't take into account) for the query to result in a dataset with no data, i.e. a list of people with null values. I have to present those values as averages and standard deviations. It came as a nasty surprise when I found out that the DataTable.Compute() method doesn't handle a column of all nulls very gracefully. So, I coded up a solution, thanks to some Googling, which I believe lends itself to functional programming, something I just got introduced to by [Chris Eargle](http://www.kodefuguru.com/) at the last [Orlando DotNet UG](http://www.onetug.org/Home.aspx) meeting. Here's my initial stab and maybe I'll get some feedback on how to improve.  

@@ -4,6 +4,8 @@ date: 2022-01-13
 tags: ["Lightbend", "TheFuture", "Serverless", "Akka", "AkkaServerless"]
 slug: "were-all-actors-on-the-stage-of-life"
 description: "Yes, you read that right. You, my friend, are an actor. So am I. \"But!\" I hear you say, \"I'm not making Hollywood bucks!\" I'll commiserate with you. Neither..."
+aliases:
+  - "/2022/01/were-all-actors-on-stage-of-life.html"
 ---
 
 ![Acting!](/images/posts/blogger-da96f3c09c.gif)[](/images/posts/blogger-da96f3c09c.gif)  

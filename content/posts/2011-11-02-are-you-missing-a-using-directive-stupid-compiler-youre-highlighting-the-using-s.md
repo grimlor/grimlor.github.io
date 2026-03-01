@@ -4,6 +4,8 @@ date: 2011-11-02
 tags: [".NET frameworks", "deceptive errors"]
 slug: "are-you-missing-a-using-directive-stupid-compiler-youre-highlighting-the-using-s"
 description: "So, here I am, bopping along after adding my company's ([InCharge Institute](http://www.incharge.org/)) framework library and referencing it in my project...."
+aliases:
+  - "/2011/11/are-you-missing-using-directive-stupid.html"
 ---
 
 So, here I am, bopping along after adding my company's ([InCharge Institute](http://www.incharge.org/)) framework library and referencing it in my project. I've added a using statement and completed writing the code, which [ReSharper](http://www.jetbrains.com/resharper/) blesses and gives no syntax errors. And yet, I get a compiler error:  

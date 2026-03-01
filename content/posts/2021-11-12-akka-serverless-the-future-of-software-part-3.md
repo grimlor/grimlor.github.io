@@ -6,6 +6,8 @@ series: ["Akka Serverless"]
 series_order: 3
 slug: "akka-serverless-the-future-of-software-part-3"
 description: "Well, now that you mention it, I did about a month of sleeping since my last post. Thanks for the nudge awake. In that interregnum we at..."
+aliases:
+  - "/2021/11/akka-serverless-future-of-software-part.html"
 ---
 
 ##  Ahem! Did You Fall Asleep?

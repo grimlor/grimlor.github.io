@@ -4,6 +4,8 @@ date: 2011-02-23
 slug: "silly-trick-of-the-quarter"
 tags: ["tips", ".NET"]
 description: "Ok, the title would have sounded better as Silly Trick of the Day, but let's be honest; I don't post that often. :-) That said, here's something someone..."
+aliases:
+  - "/2011/02/silly-trick-of-quarter.html"
 ---
 
 Ok, the title would have sounded better as Silly Trick of the Day, but let's be honest; I don't post that often. :-) That said, here's something someone might enjoy. I've been working a lot with AJAX recently to improve the performance of a dashboard. No matter how fast I make the queries run, though, there will be times where we have to wait. So, the inevitable progress indicator comes up...boring, annoying, time for a cup of coffee.  

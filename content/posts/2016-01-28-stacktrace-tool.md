@@ -4,6 +4,8 @@ date: 2016-01-28
 tags: ["Universal Windows Platform", "UWP"]
 slug: "stacktrace-tool"
 description: "Wow! Over a year since I last posted. I really need to find the overlap of time and motivation to bring some value to the few who stop by here. Here's..."
+aliases:
+  - "/2016/01/stacktrace-tool.html"
 ---
 
 Wow! Over a year since I last posted. I really need to find the overlap of time and motivation to bring some value to the few who stop by here. Here's something. I created this and hope you might find it useful. Go [check it out](https://github.com/grimlor/StackTraceTool) on my [GitHub repo](https://github.com/grimlor).  

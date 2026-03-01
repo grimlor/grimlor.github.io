@@ -6,6 +6,8 @@ series_order: 1
 slug: "why-your-tests-passed-but-your-api-failed-the-serde-boundary-problem"
 tags: ["testing", "Python", "FastMCP", "debugging"]
 description: "I recently spent several hours debugging a bug that *shouldn't have existed*. My test suite? 510 passing tests with solid coverage. My BDD tests? Validating..."
+aliases:
+  - "/2026/02/why-your-tests-passed-but-your-api.html"
 ---
 
 I recently spent several hours debugging a bug that *shouldn't have existed*. My test suite? 510 passing tests with solid coverage. My BDD tests? Validating every tool's contract like a bouncer at an exclusive club. Yet when I deployed to production, half my API was broken.

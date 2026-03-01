@@ -4,6 +4,8 @@ date: 2015-01-26
 slug: "redundancy-in-learning"
 tags: ["learning", "career"]
 description: "Did you know that you can learn how to learn? Sounds redundant to me, too, but taking the time to understand the learning process can actually increase your..."
+aliases:
+  - "/2015/01/redundancy-in-learning.html"
 ---
 
 Did you know that you can learn how to learn? Sounds redundant to me, too, but taking the time to understand the learning process can actually increase your ability to learn. That is the premise of a course on [Coursera](http://www.coursera.org/) titled "[Learning How to Learn: Powerful mental tools to help you master tough subjects](https://class.coursera.org/learning-003)" taught by [Barbara Oakley, Ph.D.](https://class.coursera.org/learning-003/wiki/view?page=Barbara_Oakley), and [Terrence Sejnowski, Ph.D.](https://class.coursera.org/learning-003/wiki/view?page=About_Us). In this post, I will share a number of techniques that the course presents which have enhanced my learning aims. These techniques were either quite novel to me or reinforced habits I knew I needed to embrace but had never implemented.  

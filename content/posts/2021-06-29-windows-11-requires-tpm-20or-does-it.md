@@ -4,6 +4,8 @@ date: 2021-06-29
 slug: "windows-11-requires-tpm-20or-does-it"
 tags: ["Windows", "hardware", "opinion"]
 description: "Note the lack of a Security Devices node in the tree. That means I don't have no stinkin' TPM chip, 2.0 or otherwise. Yet, as a longstanding Windows..."
+aliases:
+  - "/2021/06/windows-11-requires-tpm-20or-does-it.html"
 ---
 
 # A Picture Speaks a Thousand Words

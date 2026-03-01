@@ -4,6 +4,8 @@ date: 2013-07-28
 tags: ["JVM", "Java", "stack space", "memory", "heap space"]
 slug: "java-memory-troubles-tweak-the-gc"
 description: "tl;dr version"
+aliases:
+  - "/2013/07/java-memory-troubles-tweak-gc.html"
 ---
 
 ### 

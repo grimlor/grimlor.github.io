@@ -4,6 +4,8 @@ date: 2011-02-23
 slug: "common-error-simple-solution"
 tags: ["debugging", ".NET"]
 description: "Have you ever seen this error?"
+aliases:
+  - "/2011/02/common-error-simple-solution.html"
 ---
 
 Have you ever seen this error?  

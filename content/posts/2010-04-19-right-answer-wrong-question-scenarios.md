@@ -4,6 +4,8 @@ date: 2010-04-19
 tags: ["OLAP perspective", "business intelligence", "RAWQ", "BI"]
 slug: "right-answer-wrong-question-scenarios"
 description: "As I [mentioned in an earlier post](http://bidevadventures.blogspot.com/2010/04/one-method-to-get-combined-dataset-of.html), one way that we provide..."
+aliases:
+  - "/2010/04/right-answer-wrong-question-scenarios.html"
 ---
 
 As I [mentioned in an earlier post](http://bidevadventures.blogspot.com/2010/04/one-method-to-get-combined-dataset-of.html), one way that we provide intelligence to the data, resulting in information, is to prevent Right Answer Wrong Question (RAWQ) scenarios.  A RAWQ scenario occurs when data is returned which seems sane on first glance but upon inspection it is found that the numbers don't match reality.  This happens in SQL with improper joins but is typically caught quickly by the developer.  However, when you expose your data for the public to consume in cubes, RAWQ happens altogether too frequently.

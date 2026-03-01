@@ -4,6 +4,8 @@ date: 2013-07-09
 tags: ["Onion Architecture Templified", ".NET", "strategy pattern", "design patterns"]
 slug: "strategy-pattern-using-onion-architecture-templified"
 description: "*The following article was drafted 2013/07/09 shortly after a presentation I had made at the Orlando .NET Users Group. Unfortunately, I neglected to hit the..."
+aliases:
+  - "/2013/07/strategy-pattern-using-onion.html"
 ---
 
 *The following article was drafted 2013/07/09 shortly after a presentation I had made at the Orlando .NET Users Group. Unfortunately, I neglected to hit the Post button and left it to collect dust without being published until now. Apologies for anyone who was looking forward to this article.*  
