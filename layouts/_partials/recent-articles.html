@@ -15,7 +15,7 @@
 
   {{/* Render featured post prominently */}}
   {{ with $featured }}
-    <article class="mt-8 max-w-prose">
+    <article class="mt-8 max-w-prose mx-auto">
       <h2 class="text-2xl font-extrabold">
         <a
           class="text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
@@ -40,9 +40,11 @@
   {{/* Remaining recent posts (skip the featured one) */}}
   {{ $remaining := where $recent "Permalink" "ne" $featured.Permalink }}
   {{ if gt (len $remaining) 0 }}
+    <div class="max-w-prose mx-auto">
     <h2 class="mt-8 text-2xl font-extrabold">{{ i18n "shortcode.recent_articles" | emojify }}</h2>
     {{ range $remaining }}
       {{ partial "article-link.html" . }}
     {{ end }}
+    </div>
   {{ end }}
 {{ end }}
