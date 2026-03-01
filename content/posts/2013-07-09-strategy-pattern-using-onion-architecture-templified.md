@@ -101,7 +101,7 @@ public class GoogleShoppingSearchAPI : IShoppingSearchAPI
     {
         var products = new List<Product>();
 
-        var service = new ShoppingService { Key = "AIzaSyBcWCofOByUzp-EekjUCMxa30h-D9U95eE" };
+        var service = new ShoppingService { Key = "YOUR_API_KEY_HERE" };
         var request = service.Products.List("public");
         request.Country = "us";
         request.Q = query;
