@@ -27,7 +27,23 @@ jobs:
           hugo-version: '0.157.0'
           extended: true
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
       - run: hugo --minify
+
+      - name: Encrypt protected pages
+        run: |
+          npx staticrypt public/posts/thomas-goodemoot-love-and-light/index.html \
+            -p "${{ secrets.THOMAS_POST_PASSWORD }}" \
+            -d public/posts/thomas-goodemoot-love-and-light \
+            --short \
+            --template-title "Protected Post" \
+            --template-instructions "This post is password protected. Please enter the password to view it."
 
       - uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'

@@ -1,4 +1,5 @@
 .copilot/
+node_modules/
 public/
 resources/
 scripts/
